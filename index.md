@@ -13,7 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-test
+{% if index.html %}
+  {% include index.html %}
+{% endif %}
 
 ## Header 2
 
