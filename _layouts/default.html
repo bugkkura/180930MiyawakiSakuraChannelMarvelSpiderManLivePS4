@@ -37,7 +37,11 @@
       <section>
 
       {{ content }}
-
+      
+      {% if page.video %}
+         {% include {{ page.video }} %}
+      {% endif %}
+        
       </section>
       <footer>
         {% if site.github.is_project_page %}
