@@ -16,9 +16,9 @@ Video File: ../../../spiderman live.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 156
-Active Line: 168
-Video Position: 25903
+Scroll Position: 123
+Active Line: 138
+Video Position: 22722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +45,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:41:22.36,bug. // T. (1280x720),,0,0,0,,bug.
 Dialogue: 0,0:00:00.00,0:00:16.70,Sakura (1280x720) T/N,,0,0,0,,Huge thanks to @IAmOnlyWhoIAm for QC-ing! 🖤
 Dialogue: 0,0:00:00.00,0:00:16.70,Sakura (1280x720) Reaction,,0,0,0,,(Sakura's mic was off for the first minute.)
-Dialogue: 0,0:01:11.49,0:01:13.08,Sakura (1280x720),,0,0,0,,Is there any sound?
+Dialogue: 0,0:01:11.49,0:01:13.08,Sakura (1280x720),,0,0,0,,{\pos(640,700)}Is there any sound?
 Dialogue: 0,0:01:13.08,0:01:14.56,Sakura (1280x720),,0,0,0,,Can you hear me?
 Dialogue: 0,0:01:25.62,0:01:29.30,Sakura (1280x720),,0,0,0,,Can you hear me well? Is it too soft? Is it not too soft?
 Dialogue: 0,0:01:31.85,0:01:33.12,Sakura (1280x720),,0,0,0,,Too loud?
@@ -173,16 +173,16 @@ Dialogue: 0,0:12:06.40,0:12:06.97,In-Game,,0,0,0,,{\pos(640,628)}Spider-Man: Hel
 Dialogue: 0,0:12:07.31,0:12:07.77,In-Game,,0,0,0,,{\pos(640,628)}Boss: Parker?
 Dialogue: 0,0:12:08.11,0:12:09.24,In-Game,,0,0,0,,{\pos(640,628)}Boss: Where are you?
 Dialogue: 0,0:12:09.24,0:12:12.94,In-Game,,0,0,0,,{\pos(640,628)}Boss: We must run through the demonstration\Nat least once before the grant committee arrives.
-Dialogue: 0,0:12:13.11,0:12:14.65,Sakura (1280x720),,0,0,0,,I'm going!
+Dialogue: 0,0:12:13.11,0:12:14.65,Sakura (1280x720),,0,0,0,,{\pos(640,707)}I'm going!
 Dialogue: 0,0:12:13.21,0:12:18.92,In-Game,,0,0,0,,{\pos(640,515)}Spider-Man: Uhh, yes. Sorry. Yes. Dealing with a...\Npersonal issue. I'll be in soon. Promise.
-Dialogue: 0,0:12:16.09,0:12:18.66,Sakura (1280x720),,0,0,0,,See, Spider-Man also says so.
+Dialogue: 0,0:12:16.09,0:12:18.66,Sakura (1280x720),,0,0,0,,{\pos(640,707)}See, Spider-Man also says so.
 Dialogue: 0,0:12:19.65,0:12:23.05,In-Game,,0,0,0,,{\pos(640,610)}Spider-Man: Eesh, better wrap this up quick, then get to my *real* job.
-Dialogue: 0,0:12:22.15,0:12:24.52,Sakura (1280x720),,0,0,0,,It's a little funny now.
-Dialogue: 0,0:12:25.26,0:12:27.64,Sakura (1280x720),,0,0,0,,Isn't this so great??! Seriously!
-Dialogue: 0,0:12:31.70,0:12:33.13,Sakura (1280x720),,0,0,0,,Ouch.
-Dialogue: 0,0:12:38.13,0:12:40.29,Sakura (1280x720),,0,0,0,,This is really high.
+Dialogue: 0,0:12:22.15,0:12:24.52,Sakura (1280x720),,0,0,0,,{\pos(640,707)}It's a little funny now.
+Dialogue: 0,0:12:25.26,0:12:27.64,Sakura (1280x720),,0,0,0,,{\pos(640,707)}Isn't this so great??! Seriously!
+Dialogue: 0,0:12:31.70,0:12:33.13,Sakura (1280x720),,0,0,0,,{\pos(640,707)}Ouch.
+Dialogue: 0,0:12:38.13,0:12:40.29,Sakura (1280x720),,0,0,0,,{\pos(640,707)}This is really high.
 Dialogue: 0,0:12:43.07,0:12:44.48,In-Game,,0,0,0,,{\pos(640,628)}Spider-Man: Looks like Yuri called in the cavalry.
-Dialogue: 0,0:12:43.84,0:12:45.44,Sakura (1280x720),,0,0,0,,This is amazing~
+Dialogue: 0,0:12:43.84,0:12:45.44,Sakura (1280x720),,0,0,0,,{\pos(640,707)}This is amazing~
 Dialogue: 0,0:12:46.14,0:12:47.50,Sakura (1280x720),,0,0,0,,I'm here, I'm here, I'm here!
 Dialogue: 0,0:12:51.69,0:12:52.57,Sakura (1280x720),,0,0,0,,Here it comes, here it comes.
 Dialogue: 0,0:12:52.57,0:12:54.12,Sakura (1280x720),,0,0,0,,I'm so nervous!
