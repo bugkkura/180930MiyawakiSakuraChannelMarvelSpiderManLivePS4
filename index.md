@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-{% if index.html %}
+{% if site.video %}
   {% include index.html %}
 {% endif %}
 
