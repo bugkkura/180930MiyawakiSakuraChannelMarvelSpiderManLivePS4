@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Videojs ASS/SSA subtitles</title>
 
     <!-- npm -->
     <link href="node_modules/video.js/dist/video-js.min.css" rel="stylesheet">
@@ -22,39 +21,22 @@
   </head>
 
   <body>
-    <video id="player" class="video-js vjs-default-skin vjs-big-play-centered">
-      <source src="video/os.mp4" type="video/mp4">
-    </video>
-    <script>
+ <script>
       videojs('player', {
         controls: true,
         nativeControlsForTouch: false,
         width: 640,
         height: 360,
-        // fluid: true,
-        // plugins: {
-        //   ass: {
-        //     'src': ["subs/os.ass"],
-        //     videoWidth: 640,
-        //     videoHeight: 360,
-        //     // enableSvg: false
-        //   }
-        // },
-        playbackRates: [0.5, 1, 1.5, 2]
+        fluid: true,
+        plugins: {
+          ass: {
+            'src': ["subs/180930MiyawakiSakuraChannelMarvelSpiderManLivePS4.ass"],
+            'delay': -0.1,
+          }
+        },
+        techOrder: ["youtube"],
+        sources: [{"type": "video/youtube", "src": "https://www.youtube.com/watch?v=l34oGpV-yt8"}]
       });
-
-      var vjs = videojs('player');
-      // initialize the plugin this way to access internal methods
-      var vjs_ass = vjs.ass({
-        'src': ["subs/os.ass"],
-        label: "engsub",
-        videoWidth: 640,
-        videoHeight: 360,
-        // enableSvg: false
-      });
-
-      // you will then be able to use the following js to switch subtitle
-      // vjs_ass.loadNewSubtitle('URL HERE')
     </script>
   </body>
 </html>
