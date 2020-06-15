@@ -13,8 +13,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-{% include index.html %}
-
 ## Header 2
 
 > This is a blockquote following a header.
