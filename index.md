@@ -1,17 +1,15 @@
 ---
 layout: default
-video: index.html
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**bold**, _italic_, ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# 180930
 
-# Header 1
+{% include index.html %}
 
 ## Header 2
 
