@@ -270,3 +270,9 @@ footer {
     color:#444;
   }
 }
+
+@media screen and (max-device-width: 400px) {
+      .player-wrapper {
+        width: 95%;
+      }
+    }
