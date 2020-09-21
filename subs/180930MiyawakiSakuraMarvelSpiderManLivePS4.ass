@@ -23,7 +23,7 @@ Video Position: 39925
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sakura (1280x720) T/N,Bahnschrift Condensed,30,&H00FFFFFF,&H00C5B7FF,&H3F000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0.5,8,10,10,10,1
-Style: bug. // T. (1280x720),Things,30,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,0.666667,9,7,40,27,1
+Style: bug. // T. (1280x720),Things,45,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,0.666667,9,7,40,27,1
 Style: Sakura (1280x720),Bahnschrift Condensed,35,&H00E7D2F1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0.5,2,10,10,10,1
 Style: In-Game,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0.2,2,10,10,110,1
 Style: Sakura (1280x720) Reaction,Bahnschrift Condensed,30,&H00FFFFFF,&H00C5B7FF,&H3F000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0.5,2,10,10,10,1
