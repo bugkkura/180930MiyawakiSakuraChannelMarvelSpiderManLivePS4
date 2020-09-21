@@ -117,5 +117,5 @@
     }
   };
 
-  videojs.registerPlugin('ass', vjs_ass);
+  videojs.plugin('ass', vjs_ass);
 }(window.videojs, window.libjass));
