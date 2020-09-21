@@ -197,7 +197,9 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-
+section {
+  width:auto !important;  
+}
   div.wrapper {
     width:auto;
     margin:0;
