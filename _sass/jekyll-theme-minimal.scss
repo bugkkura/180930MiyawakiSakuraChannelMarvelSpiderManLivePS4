@@ -196,6 +196,13 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+
+@media print, screen and (max-width: 1200px) {
+  section {
+    width:auto !important;  
+  }
+}
+
 @media print, screen and (max-width: 960px) {
 section {
   width:auto !important;  
