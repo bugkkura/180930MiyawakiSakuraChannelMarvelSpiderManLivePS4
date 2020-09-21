@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:auto;
+  width:1280px;
   margin:0 auto;
 }
 
@@ -200,6 +200,10 @@ footer {
 @media print, screen and (max-width: 1200px) {
   section {
     width:auto !important;  
+  }
+  .wrapper {
+    width:980px;
+    margin:0 auto;
   }
 }
 
