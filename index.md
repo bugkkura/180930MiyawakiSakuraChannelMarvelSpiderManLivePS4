@@ -50,5 +50,4 @@ Tofu Pro Wrestling<br>
 
 ## Misc.
 * * *
-
-* <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live [PS4]</a>
+<h3><a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live [PS4]</a></h3>
