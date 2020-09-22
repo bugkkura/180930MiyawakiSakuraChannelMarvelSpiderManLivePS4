@@ -86,4 +86,4 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 ## Misc.
 * * *
 
-* <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
+* <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live [PS4]</a>
