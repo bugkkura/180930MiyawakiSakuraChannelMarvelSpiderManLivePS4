@@ -55,13 +55,11 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 | <a href="https://www.youtube.com/watch?v=KJaYHQa_koA">Episode 8</a> (181128 Asia Artist Awards Backstage)  | <a href="https://www.youtube.com/watch?v=A6EieNny-iY">Episode 9</a> (Fairytale Princesses VCR Filming)
 | <a href="https://www.youtube.com/watch?v=Z167_AonGm0">Episode 10</a> (181210 MAMA in Korea Backstage)      | <a href="https://www.youtube.com/watch?v=lw4wPYBeySg">Episode 12</a> (190106 Golden Disk Awards Backstage)
 | <a href="https://www.youtube.com/watch?v=H2GztU4loNc">Episode 13</a> (190115 Seoul Music Awards Backstage) | <a href="https://www.youtube.com/watch?v=IMBfpoA2iWo">Episode 14</a> (190123 GAON CHART Music Awards Backstage)
+| <a href="https://www.youtube.com/watch?v=ocqIQf7yeBo">Episode 15</a> (190201 ISAC Filming)                 | <a href="https://www.youtube.com/watch?v=HPYhf3P6U5k">Episode 17</a> (AR Magazine March 2019 Photoshoot)
+| <a href="https://www.youtube.com/watch?v=kgyNlu7Jzfs">Episode 20</a> (IZ* ONE in Japan)                    | <a href="https://www.youtube.com/watch?v=YGZOCCfUtCY">Episode 21</a> (Violeta MV Filming)
+| <a href="https://www.youtube.com/watch?v=QuFlMIgKxsA">Episode 23</a> (Violeta Promotions Backstage #1)     | <a href="https://www.youtube.com/watch?v=sZeph04xB_k">Episode 24</a> (Violeta Promotions Backstage #2)
+| <a href="https://www.youtube.com/watch?v=eoyUSKMVkgk">Episode 25</a> (Violeta Promotions Backstage #3)     | <a href="https://www.youtube.com/watch?v=8XSS0d1ql7I">Episode 29</a> (1st Fanmeeting in Japan Backstage)
 
-<br>
-
-| Episode 15                                                                                | Episode 17 |
-| Episode 20                                                                                | Episode 21 |
-| Episode 23                                                                                | Episode 24 |
-| Episode 25                                                                                | Episode 29 |
 <br>
 ### ENOZI Cam +
 
