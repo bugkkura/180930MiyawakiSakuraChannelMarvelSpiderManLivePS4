@@ -18,21 +18,23 @@ Tofu Pro Wrestling<br>
 
 ## Produce 48
 * * *
+Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 7 | Episode 8 | Episode 9 | Episode 10 | Episode 12
+<br>
 
 ## Theatre Performances
 * * *
+-
 
 ## Variety Shows
 * * *
 
 ### IZ* ONE CHU
-
-Episode 1 | Episode 2 | Episode 3 | Episode 4
+  Episode 1 | Episode 2 | Episode 3 | Episode 4
 <br>
 
 ### IZ* ONE CHU Season 2: Secret Friends
-
-Episode 1 | Episode 2 | Episode 3 | Episode 4
+  
+  Episode 1 | Episode 2 | Episode 3 | Episode 4
 <br>
 
 ### OliveTV Everyone's Kitchen
@@ -47,23 +49,18 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4
 
 ### ENOZI Cam
 
-<div style="font-size:13px">
   <a href="https://www.youtube.com/watch?v=mEboyuYa5-s">Episode 2</a> | <a href="https://www.youtube.com/watch?v=LBljUqTzboo">Episode 3</a> | 
-</div>
 <br>
 
 ### ENOZI Cam +
 
-<div style="font-size:13px">
   <a href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a> | <a href="https://www.youtube.com/watch?v=nxZg70OqHpU">Making Lunchbox for Chaewon</a> | 
-</div>
 <br>
 
 ### IZ* ONE Arcade
 
-<div style="font-size:13px">
 <a href="https://www.youtube.com/watch?v=sEFiHs7mLjM">Episode 1</a> | <a href="https://www.youtube.com/watch?v=7JH2KFJKGjA">Episode 2</a> 
-</div>
+
 <br>
 
 ### IZ* ONE Arcade II
