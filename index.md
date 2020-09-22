@@ -59,6 +59,7 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 | <a href="https://www.youtube.com/watch?v=kgyNlu7Jzfs">Episode 20</a> (IZ* ONE in Japan)                    | <a href="https://www.youtube.com/watch?v=YGZOCCfUtCY">Episode 21</a> (Violeta MV Filming)
 | <a href="https://www.youtube.com/watch?v=QuFlMIgKxsA">Episode 23</a> (Violeta Promotions Backstage #1)     | <a href="https://www.youtube.com/watch?v=sZeph04xB_k">Episode 24</a> (Violeta Promotions Backstage #2)
 | <a href="https://www.youtube.com/watch?v=eoyUSKMVkgk">Episode 25</a> (Violeta Promotions Backstage #3)     | <a href="https://www.youtube.com/watch?v=8XSS0d1ql7I">Episode 29</a> (1st Fanmeeting in Japan Backstage)
+
 <br>
 
 ### ENOZI Cam +
