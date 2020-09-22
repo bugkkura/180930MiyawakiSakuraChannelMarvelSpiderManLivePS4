@@ -6,21 +6,20 @@ In the meantime, do continue supporting Sakura! 🥰
 ## Dramas
 * * *
 
-Majisuka Gakuen 4<br>
-Majisuka Gakuen 5<br>
-AKB Horror Night: Adrenaline's Night<br>
-Majisuka Gakuen 0<br>
-Crow's Blood<br>
-AKB Love Night: Love Factory<br>
-Doctor-Y: Surgeon Hideki Kaji<br>
-Cabasuka Gakuen<br>
-Tofu Pro Wrestling<br>
+<h3><a href="./md/dramas/majisuka gakuen 4/majisuka gakuen 4.html">Majisuka Gakuen 4</a></h3>
+<h3><a href="./md/dramas/majisuka gakuen 5/majisuka gakuen 5.html">Majisuka Gakuen 5</a></h3>
+<h3><a href="./md/dramas/akb horror night.html">AKB Horror Night: Adrenaline's Night</a></h3>
+<h3><a href="./md/dramas/majisuka gakuen 0.html">Majisuka Gakuen 0</a></h3>
+<h3><a href="./md/dramas/crow's blood/crow's blood.html">Crow's Blood</a></h3>
+<h3><a href="./md/dramas/akb love night.html">AKB Love Night: Love Factory</a></h3>
+<h3><a href="./md/dramas/doctor y/doctor y.html">Doctor-Y: Surgeon Hideki Kaji</a></h3>
+<h3><a href="./md/dramas/cabasuka gakuen/cabasuka gakuen.html">Cabasuka Gakuen</a></h3>
+<h3><a href="./md/dramas/tofu pro wrestling/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 
 ## Produce 48
 * * *
 <h3><a href="./md/produce 48/produce 48 episodes.html">Episodes</a></h3>
 <h3><a href="./md/produce 48/produce 48 behind clips.html">Behind Clips</a></h3>
-<br>
 
 ## Theatre Performances
 * * *
@@ -32,13 +31,11 @@ Tofu Pro Wrestling<br>
 <h3><a href="./md/variety/izone chu/izone chu.html">IZ* ONE CHU</a></h3>
 <h3><a href="./md/variety/izone chu s2/izone chu s2.html">IZ* ONE CHU Season 2: Secret Friends</a></h3>
 <h3><a href="./md/variety/everyone's kitchen/everyone's kitchen.html">OliveTV Everyone's Kitchen</a></h3>
-<br>
 
 ## V LIVE
 * * *
 <h3><a href="./md/vlive/vlive.html">IZ* ONE</a></h3>
 <h3><a href="./md/vlive/osen.html">OSEN, Dispatch, V COOKIE</a></h3>
-<br>
 
 ## YouTube
 * * *
@@ -46,7 +43,6 @@ Tofu Pro Wrestling<br>
 <h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade, Arcade II</a></h3>
 <h3><a href="./md/youtube/music videos.html">Music Videos</a></h3>
 <h3><a href="./md/youtube/official music show fancams.html">Official Music Show Fancams</a></h3>
-<br>
 
 ## Misc.
 * * *
