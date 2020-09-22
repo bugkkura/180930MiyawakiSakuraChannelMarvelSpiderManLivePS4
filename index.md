@@ -51,12 +51,9 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 * * *
 
 <h3><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h3>
-<h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade</a></h3>
-
-<a target="_blank" href="https://www.youtube.com/watch?v=sEFiHs7mLjM">Episode 1</a> | <a target="_blank" href="https://www.youtube.com/watch?v=7JH2KFJKGjA">Episode 2</a> 
+<h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade, Arcade II</a></h3>
 <br>
 
-### IZ* ONE Arcade II
 
 ### Music Videos
 
