@@ -18,13 +18,17 @@ layout: default
 <p>Guest(s): Lee Taegon, Lee Hongki (F.T. Island)</p>
 <br>
 <h2><a href="./everyone's kitchen episode 6.html">[Bug. Subs] 190324 Episode 6</a></h2>
-Guest(s): Kim Yonggun, Gummy, Lee Elijah
+<p>Guest(s): Kim Yonggun, Gummy, Lee Elijah</p>
+<img width="500" src="https://instagram.fsin9-2.fna.fbcdn.net/v/t51.2885-15/e35/53650204_2385133778367589_4962371243902427280_n.jpg?_nc_ht=instagram.fsin9-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=CXz7pXEhmAUAX8WtDLw&_nc_tp=18&oh=5cd42dbc2fd7d9784e73fb86ed444eab&oe=5F94B251">
+
 <h2><a href="./everyone's kitchen episode 8.html">[ReVelUp Subs] 190407 Episode 8</a></h2>
 Guest(s): Yoo Minsang, Wendy (Red Velvet)
 <br>
+
 <h2><a href="./everyone's kitchen episode 9.html">[YellowKnights] 190414 Episode 9</a></h2>
 Guest(s): Eun Jiwon (Sechs Kies), Kyung Soojin, Park Jibin
 <br>
+
 <h2><a href="./everyone's kitchen episode 11.html">[Bug. Subs] 190428Episode 11 (Sakura Cut)</a></h2>
 Guest(s): Yiruma, Chungha
 <br>
