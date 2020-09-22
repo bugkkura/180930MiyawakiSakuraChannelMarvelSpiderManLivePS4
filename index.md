@@ -5,16 +5,15 @@ In the meantime, do continue supporting Sakura! 🥰
 ## Dramas
 * * *
 
-* Majisuka Gakuen 4
-* Majisuka Gakuen 5
-<br>
-AKB Horror Night: Adrenaline's Night
-Majisuka Gakuen 0
-Crow's Blood
-AKB Love Night: Love Factory
-Doctor-Y: Surgeon Hideki Kaji
-Cabasuka Gakuen
-Tofu Pro Wrestling
+Majisuka Gakuen 4<br>
+Majisuka Gakuen 5<br>
+AKB Horror Night: Adrenaline's Night<br>
+Majisuka Gakuen 0<br>
+Crow's Blood<br>
+AKB Love Night: Love Factory<br>
+Doctor-Y: Surgeon Hideki Kaji<br>
+Cabasuka Gakuen<br>
+Tofu Pro Wrestling<br>
 
 ## Variety Shows
 * * *
