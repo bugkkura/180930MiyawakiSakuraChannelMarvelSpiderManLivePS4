@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <h1>V LIVE</h1>
 <a target="_blank" href="https://www.vlive.tv/video/88099">180908 Hello, we are IZ* ONE!!😀</a>
 <a target="_blank" href="https://www.vlive.tv/video/89022">180914 IZ* ONE's second meeting 😍</a>
