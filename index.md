@@ -3,6 +3,7 @@ Hello! This site was created to make it easier for Sakura fans to find Sakura co
 In the meantime, do continue supporting Sakura! 🥰
 
 ## Dramas
+* * *
 
 Majisuka Gakuen 4
 Majisuka Gakuen 5
@@ -15,11 +16,13 @@ Cabasuka Gakuen
 Tofu Pro Wrestling
 
 ## Variety Shows
+* * *
 
 <div style="font-weight:bold; font-size: 15px">OliveTV Everyone's Kitchen:</div>
 <div style="font-size:13px"><a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> | [IZ SUBS] Episode 2 (Full) | [IZ SUBS] Episode 4 (Full) | [Bug. Subs] Episode 6 (Full) | [ReVelUp Subs] Episode 8 (Full) | [YellowKnights] Episode 9 (Full) | [Bug. Subs] Episode 11 (Sakura Cut)</div>
-
+<br>
 ## YouTube
+* * *
 
 ### ENOZI Cam
 
@@ -37,8 +40,12 @@ Tofu Pro Wrestling
 ### Official Music Show Fancams
 
 ## VLIVE
+* * *
 
 ## Theatre Performances
+* * *
 
 ## Misc.
+* * *
+
 * <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
