@@ -27,7 +27,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/103138">181208 🧀🌭🍠🐡🍊✌</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/103421">181210 Winning the Rookie of the Year Award, IZ* ONE🏆</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/104790">181218 IZ*ONE NEWS🌏</a><br>
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9653941">WIZ*ONE, we'll make you shine! Thank you always💖</a><br>
+  
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
@@ -37,4 +37,12 @@ layout: default
 </div>
 
 <h3>Post</h3>
-<a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.8495269?boardId=1977">181002 [✌️] Goodnight, IZnight 🌙
+<div style="font-size:15px">
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.8495269?boardId=1977">181002 [✌️] Goodnight, IZnight 🌙</a><br>
+  
+  
+  
+  
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9653941">190106 WIZ*ONE, we'll make you shine! Thank you always💖</a><br>
+  
+    </div>
