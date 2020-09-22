@@ -63,10 +63,10 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 <br>
 ### ENOZI Cam +
 
-| <a href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a>        | <a href="https://www.youtube.com/watch?v=nxZg70OqHpU">Making Lunchbox for Chaewon</a>
-| <a href="https://www.youtube.com/watch?v=5ye2u3gLw_U">Music Bank 1st Half of the Year Special Backstage | <a href="https://www.youtube.com/watch?v=M-UjOoy56Is">MGMA, KB Liiv Concert Behind
-| <a href="https://www.youtube.com/watch?v=otMw0Um5JLw">IZ*ONE goes to a mart in Thailand!                | <a href="https://www.youtube.com/watch?v=rVAGrBBCJu0">'COMEBACK IZ*ONE BLOOM*IZ' Behind
-| <a href="https://www.youtube.com/watch?v=OatrfUO1IDk">Mango Bingsoo Mukbang in 2019 TAIPEI              |
+| <a href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a>            | <a href="https://www.youtube.com/watch?v=nxZg70OqHpU">Making Lunchbox for Chaewon</a>
+| <a href="https://www.youtube.com/watch?v=5ye2u3gLw_U">Music Bank 1st Half of the Year Special Backstage</a> | <a href="https://www.youtube.com/watch?v=M-UjOoy56Is">MGMA, KB Liiv Concert Behind</a>
+| <a href="https://www.youtube.com/watch?v=otMw0Um5JLw">IZ*ONE goes to a mart in Thailand!</a>                | <a href="https://www.youtube.com/watch?v=rVAGrBBCJu0">'COMEBACK IZ*ONE BLOOM*IZ' Behind</a>
+| <a href="https://www.youtube.com/watch?v=OatrfUO1IDk">Mango Bingsoo Mukbang in 2019 TAIPEI</a>              |
 <br>
 
 ### IZ* ONE Arcade
