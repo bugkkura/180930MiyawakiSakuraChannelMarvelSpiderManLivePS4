@@ -30,6 +30,6 @@ layout: default
 <p>Guest(s): Eun Jiwon (Sechs Kies), Kyung Soojin, Park Jibin</p>
 <img width="500" src="https://instagram.fsin9-1.fna.fbcdn.net/v/t51.2885-15/e35/57286270_2185357214843225_4395484315235538579_n.jpg?_nc_ht=instagram.fsin9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=4gyT02xeNNIAX_IBzMS&_nc_tp=18&oh=f746656131887392460a79f82fd43f9d&oe=5F9548AE">
 * * *
-<h2><a href="./everyone's kitchen episode 11.html">[Bug. Subs] 190428Episode 11 (Sakura Cut)</a></h2>
+<h2><a href="./everyone's kitchen episode 11.html">[Bug. Subs] 190428 Episode 11 (Sakura Cut)</a></h2>
 <p>Guest(s): Yiruma, Chungha</p>
 <img width="500" src="https://instagram.fsin9-2.fna.fbcdn.net/v/t51.2885-15/e35/57379489_383165078963220_8150985231290721350_n.jpg?_nc_ht=instagram.fsin9-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=RMuKRT-4xm4AX_PpOH6&_nc_tp=18&oh=f7bba10eb20de184a8998881759e2d9d&oe=5F92FA09">
