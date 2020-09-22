@@ -42,8 +42,11 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 | [ReVelUp Subs] Episode 8 (Full) | [YellowKnights] Episode 9 (Full) | [Bug. Subs] Episode 11 (Sakura Cut)
 <br>
 
-<h2><a href="./md/vlive/vlive.html">V LIVE</a></h2>
+## V LIVE
 * * *
+<a href="./md/vlive/vlive.html">IZ* ONE</a>
+<a href="./md/vlive/osen.html">OSEN, Dispatch, V COOKIE</a>
+<br>
 
 ## YouTube
 * * *
