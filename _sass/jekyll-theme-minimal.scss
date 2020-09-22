@@ -55,6 +55,27 @@ a:hover small {
   color:#f1d2e7;
 }
 
+a2 {
+  color:#8B7985;
+  text-decoration:none;
+}
+
+a2:hover, a:focus {
+  color:#8B7985;
+  font-weight: bold;
+}
+
+a2 small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a2:hover small {
+  color:#8B7985;
+}
+
 .wrapper {
   width:72em;
   margin:0 auto;
