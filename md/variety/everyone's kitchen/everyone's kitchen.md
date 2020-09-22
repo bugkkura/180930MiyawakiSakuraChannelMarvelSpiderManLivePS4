@@ -13,9 +13,7 @@ Guest(s): N/A
 <h2><a href="./everyone's kitchen episode 2.html">[IZ SUBS] 190224 Episode 2</a></h2>
 
 <img height="500" src="https://instagram.fsin9-2.fna.fbcdn.net/v/t51.2885-15/e35/51754855_2256712864372449_8980718997184379643_n.jpg?_nc_ht=instagram.fsin9-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=-uTxXxfE5cwAX_wHXTW&_nc_tp=18&oh=ec187bcef5574a22a32679de8e14e9da&oe=5F93EB06">
-<br>
-Guest(s): Kim Yonggun, Chani (SF9)
-<br>
+<p>Guest(s): Kim Yonggun, Chani (SF9)</p>
 <h2><a href="./everyone's kitchen episode 4.html">[IZ SUBS] 190310 Episode 4</a></h3>
 Guest(s): Lee Taegon, Lee Hongki (F.T. Island)
 <br>
