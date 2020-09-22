@@ -18,7 +18,8 @@ Tofu Pro Wrestling<br>
 
 ## Produce 48
 * * *
-Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 7 | Episode 8 | Episode 9 | Episode 10 | Episode 12
+<h3><a href="./md/produce 48/produce 48 episodes.html">Episodes</a></h3>
+<h3><a href="./md/produce 48/produce 48 behind clips.html">Behind Clips</a></h3>
 <br>
 
 ## Theatre Performances
@@ -27,15 +28,9 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 
 ## Variety Shows
 * * *
-
 <h3><a href="./md/variety/izone chu/izone chu.html">IZ* ONE CHU</a></h3>
-<br>
-
 <h3><a href="./md/variety/izone chu s2/izone chu s2.html">IZ* ONE CHU Season 2: Secret Friends</a></h3>
-<br>
-
 <h3><a href="./md/variety/everyone's kitchen/everyone's kitchen.html">OliveTV Everyone's Kitchen</a></h3>
-  
 <br>
 
 ## V LIVE
@@ -46,16 +41,11 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 
 ## YouTube
 * * *
-
 <h3><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h3>
 <h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade, Arcade II</a></h3>
+<h3><a href="./md/youtube/music videos.html">Music Videos</a></h3>
+<h3><a href="./md/youtube/official music show fancams.html">Official Music Show Fancams</a></h3>
 <br>
-
-
-### Music Videos
-
-### Official Music Show Fancams
-
 
 ## Misc.
 * * *
