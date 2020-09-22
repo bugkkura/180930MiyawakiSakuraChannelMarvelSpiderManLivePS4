@@ -35,7 +35,7 @@ In the meantime, do continue supporting Sakura! 🥰
 ## V LIVE
 * * *
 <h3><a href="./md/vlive/vlive.html">IZ* ONE</a></h3>
-<h3><a href="./md/vlive/osen.html">OSEN, Dispatch, V COOKIE</a></h3>
+<h3><a href="./md/vlive/osen.html">OSEN, IDOL ROOM, Dispatch, V COOKIE etc.</a></h3>
 
 ## YouTube
 * * *
