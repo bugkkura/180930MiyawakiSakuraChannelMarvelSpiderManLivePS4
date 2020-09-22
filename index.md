@@ -3,7 +3,7 @@ Hello! This site was created to make it easier for Sakura fans to find Sakura co
 In the meantime, do continue supporting Sakura! 🥰
 
 ### OliveTV Everyone's Kitchen
-* <a href="" style="color:#C05060;">[IZ SUBS] Episode 1</a>
+* <a href="">[IZ SUBS] Episode 1</a>
 
 ### Misc.
-* <a href="./180930SakuraSpiderman.html" style="color:#C05060;">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
+* <a href="./180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
