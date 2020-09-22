@@ -38,6 +38,14 @@ Tofu Pro Wrestling<br>
 
 ### ENOZI Cam
 
+<div style="font-size:13px">
+  <a href="https://www.youtube.com/watch?v=mEboyuYa5-s">Episode 2</a> | <a href="https://www.youtube.com/watch?v=LBljUqTzboo">Episode 3</a> | 
+</div>
+<br>
+### ENOZI Cam +
+<div style="font-size:13px">
+  <a href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a> | 
+</div>
 ### IZ* ONE Arcade
 
 <div style="font-size:13px">
