@@ -51,13 +51,19 @@ layout: default
         width: 100%;
       }
     }
+    @media screen and (max-device-width: 1000px) {
+         iframe {
+            min-height: 337px !important;
+            min-width: 600px !important;
+        }
+    }    
     @media screen and (max-device-width: 1200px) {
       .player-wrapper {
         width: 100%;
       }        
          iframe {
-            min-height: 337px;
-            min-width: 600px;
+            min-height: 337px !important;
+            min-width: 600px !important;
         }
     }    
     @media screen and (min-device-width: 1600px) {
