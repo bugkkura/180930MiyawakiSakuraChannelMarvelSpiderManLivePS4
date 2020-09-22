@@ -4,7 +4,7 @@ In the meantime, do continue supporting Sakura! 🥰
 
 ### IZ* ONE Arcade
 
-| <a href="https://www.youtube.com/watch?v=sEFiHs7mLjM">Episode 1</a> | <a href="https://www.youtube.com/watch?v=7JH2KFJKGjA">Episode 2</a> 
+<a href="https://www.youtube.com/watch?v=sEFiHs7mLjM">Episode 1</a> | <a href="https://www.youtube.com/watch?v=7JH2KFJKGjA">Episode 2</a> 
 
 
 
