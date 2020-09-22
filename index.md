@@ -43,17 +43,15 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 
 ## V LIVE
 * * *
-<a href="./md/vlive/vlive.html">IZ* ONE</a>
-<a href="./md/vlive/osen.html">OSEN, Dispatch, V COOKIE</a>
+<h3><a href="./md/vlive/vlive.html">IZ* ONE</a></h3>
+<h3><a href="./md/vlive/osen.html">OSEN, Dispatch, V COOKIE</a></h3>
 <br>
 
 ## YouTube
 * * *
 
-<h4><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h4>
-<br>
-
-### IZ* ONE Arcade
+<h3><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h3>
+<h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade</a></h3>
 
 <a target="_blank" href="https://www.youtube.com/watch?v=sEFiHs7mLjM">Episode 1</a> | <a target="_blank" href="https://www.youtube.com/watch?v=7JH2KFJKGjA">Episode 2</a> 
 <br>
