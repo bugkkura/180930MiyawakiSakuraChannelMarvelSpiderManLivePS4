@@ -37,10 +37,8 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
   Episode 1 | Episode 2 | Episode 3 | Episode 4
 <br>
 
-<h3><a href="./md/variety/everyone's kitchen/index.html">OliveTV Everyone's Kitchen</h3>
+<h3><a href="./md/variety/everyone's kitchen/index.html">OliveTV Everyone's Kitchen</a></h3>
   
-| <a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> | [IZ SUBS] Episode 2 (Full) | [IZ SUBS] Episode 4 (Full) | [Bug. Subs] Episode 6 (Full) 
-| [ReVelUp Subs] Episode 8 (Full) | [YellowKnights] Episode 9 (Full) | [Bug. Subs] Episode 11 (Sakura Cut)
 <br>
 
 ## V LIVE
