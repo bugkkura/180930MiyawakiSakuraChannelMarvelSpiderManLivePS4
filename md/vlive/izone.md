@@ -14,7 +14,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/94535">181018 IZ* ONE NEWS</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/95977">181028 IZ*ONE Spoiler Time</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/96158">181029 dugeun dugeun 10 minutes before!</a><br>
-  <a target="_blank" href=""></a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/97083">181102 IZ*ONE 2nd Day	</a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
