@@ -16,8 +16,8 @@ Tofu Pro Wrestling
 
 ## Variety Shows
 
-<div style="font-weight:bold; font-size: 15px">OliveTV Everyone's Kitchen:
-<a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> / [IZ SUBS] Episode 2 (Full) / [IZ SUBS] Episode 4 (Full) / [Bug. Subs] Episode 6 (Full) / [ReVelUp Subs] Episode 8 (Full) / [YellowKnights] Episode 9 (Full) / [Bug. Subs] Episode 11 (Sakura Cut)
+<div style="font-weight:bold; font-size: 15px">OliveTV Everyone's Kitchen:</div>
+<div style="font-size:13px"><a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> | [IZ SUBS] Episode 2 (Full) | [IZ SUBS] Episode 4 (Full) | [Bug. Subs] Episode 6 (Full) | [ReVelUp Subs] Episode 8 (Full) | [YellowKnights] Episode 9 (Full) | [Bug. Subs] Episode 11 (Sakura Cut)</div>
 
 ## YouTube
 
@@ -32,12 +32,13 @@ Tofu Pro Wrestling
 
 ### IZ* ONE Arcade II
 
-## VLIVE
-
 ### Music Videos
 
+### Official Music Show Fancams
 
-### Theatre Performances
+## VLIVE
 
-### Misc.
+## Theatre Performances
+
+## Misc.
 * <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
