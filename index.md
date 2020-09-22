@@ -28,13 +28,10 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 ## Variety Shows
 * * *
 
-### IZ* ONE CHU
-  Episode 1 | Episode 2 | Episode 3 | Episode 4
+<h3><a href="./md/variety/izone chu/izone chu.html">IZ* ONE CHU</a></h3>
 <br>
 
-### IZ* ONE CHU Season 2: Secret Friends
-  
-  Episode 1 | Episode 2 | Episode 3 | Episode 4
+<h3><a href="./md/variety/izone chu s2/izone chu s2.html">IZ* ONE CHU Season 2: Secret Friends</a></h3>
 <br>
 
 <h3><a href="./md/variety/everyone's kitchen/everyone's kitchen.html">OliveTV Everyone's Kitchen</a></h3>
