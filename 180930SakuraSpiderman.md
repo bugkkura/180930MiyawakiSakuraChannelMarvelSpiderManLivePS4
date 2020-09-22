@@ -2,6 +2,6 @@
 layout: default
 ---
 
-{% include 180930SakuraSpiderman.html %}
+test
 
 [Back to Main](./)
