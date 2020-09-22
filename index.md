@@ -15,12 +15,20 @@ Doctor-Y: Surgeon Hideki Kaji<br>
 Cabasuka Gakuen<br>
 Tofu Pro Wrestling<br>
 
+## Produce 48
+* * *
+
+## Theatre Performances
+* * *
+
 ## Variety Shows
 * * *
 
-<div style="font-weight:bold; font-size: 15px">OliveTV Everyone's Kitchen:</div>
-<div style="font-size:13px"><a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> | [IZ SUBS] Episode 2 (Full) | [IZ SUBS] Episode 4 (Full) | [Bug. Subs] Episode 6 (Full) | [ReVelUp Subs] Episode 8 (Full) | [YellowKnights] Episode 9 (Full) | [Bug. Subs] Episode 11 (Sakura Cut)</div>
-<br>
+IZ* ONE CHU
+OliveTV Everyone's Kitchen<br>
+
+## VLIVE
+* * *
 
 ## YouTube
 * * *
@@ -40,11 +48,6 @@ Tofu Pro Wrestling<br>
 
 ### Official Music Show Fancams
 
-## VLIVE
-* * *
-
-## Theatre Performances
-* * *
 
 ## Misc.
 * * *
