@@ -4,9 +4,19 @@ In the meantime, do continue supporting Sakura! 🥰
 
 ## Dramas
 
+Majisuka Gakuen 4
+Majisuka Gakuen 5
+AKB Horror Night: Adrenaline's Night
+Majisuka Gakuen 0
+Crow's Blood
+AKB Love Night: Love Factory
+Doctor-Y: Surgeon Hideki Kaji
+Cabasuka Gakuen
+Tofu Pro Wrestling
+
 ## Variety Shows
 
-#### OliveTV Everyone's Kitchen:
+<div style="font-weight:bold; font-size: 15px">OliveTV Everyone's Kitchen:
 <a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> / [IZ SUBS] Episode 2 (Full) / [IZ SUBS] Episode 4 (Full) / [Bug. Subs] Episode 6 (Full) / [ReVelUp Subs] Episode 8 (Full) / [YellowKnights] Episode 9 (Full) / [Bug. Subs] Episode 11 (Sakura Cut)
 
 ## YouTube
