@@ -52,10 +52,10 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
 | <a href="https://www.youtube.com/watch?v=mEboyuYa5-s">Episode 2</a> (Overhit CF Filming)                  | <a href="https://www.youtube.com/watch?v=LBljUqTzboo">Episode 3</a> (Overhit CF Filming)
 | <a href="https://www.youtube.com/watch?v=apgzmeBRqmQ">Episode 5</a> (181101 M! Countdown Backstage)       | <a href="https://www.youtube.com/watch?v=apkjxdbjj1g">Episode 6</a> (181103 Music Core Backstage)
 | <a href="https://www.youtube.com/watch?v=KJaYHQa_koA">Episode 8</a> (181128 Asia Artist Awards Backstage) | <a href="https://www.youtube.com/watch?v=A6EieNny-iY">Episode 9</a> (Fairytale Princesses VCR Filming)
-
+| <a href="https://www.youtube.com/watch?v=Z167_AonGm0">Episode 10</a> (181210 MAMA in Korea Backstage)     | <a href="https://www.youtube.com/watch?v=lw4wPYBeySg">Episode 12</a> (190106 Golden Disk Awards Backstage)
+| <a href="https://www.youtube.com/watch?v=H2GztU4loNc">Episode 13</a> (190115 Seoul Music Awards Backstage)| <a href="https://www.youtube.com/watch?v=IMBfpoA2iWo">Episode 14</a> (190123 GAON CHART Music Awards Backstage)
 <br>
-| Episode 10                                                                                | Episode 12 |
-| Episode 13                                                                                | Episode 14 |
+
 | Episode 15                                                                                | Episode 17 |
 | Episode 20                                                                                | Episode 21 |
 | Episode 23                                                                                | Episode 24 |
