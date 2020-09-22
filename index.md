@@ -24,7 +24,8 @@ Tofu Pro Wrestling<br>
 
 ## Theatre Performances
 * * *
--
+<h3><a href="./md/theatre performances/hkt48 theatre.html">HKT48</a></h3>
+<h3><a href="./md/theatre performances/akb48 theatre.html">AKB48</a></h3>
 
 ## Variety Shows
 * * *
