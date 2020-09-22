@@ -6,4 +6,4 @@ In the meantime, do continue supporting Sakura! 🥰
 * <a href="">[IZ SUBS] Episode 1</a>
 
 ### Misc.
-* <a href="./180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
+* <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
