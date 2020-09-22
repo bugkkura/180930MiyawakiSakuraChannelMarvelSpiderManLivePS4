@@ -5,8 +5,9 @@ In the meantime, do continue supporting Sakura! 🥰
 ## Dramas
 * * *
 
-<p>Majisuka Gakuen 4</p>
-<p>Majisuka Gakuen 5</p>
+* Majisuka Gakuen 4
+* Majisuka Gakuen 5
+<br>
 AKB Horror Night: Adrenaline's Night
 Majisuka Gakuen 0
 Crow's Blood
