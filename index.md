@@ -27,8 +27,17 @@ Tofu Pro Wrestling<br>
 
 ### IZ* ONE CHU
 
+Episode 1 | Episode 2 | Episode 3 | Episode 4
+<br>
+
+### IZ* ONE CHU Season 2: Secret Friends
+
+Episode 1 | Episode 2 | Episode 3 | Episode 4
+<br>
+
 ### OliveTV Everyone's Kitchen
 <div style="font-size:13px"><a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> | [IZ SUBS] Episode 2 (Full) | [IZ SUBS] Episode 4 (Full) | [Bug. Subs] Episode 6 (Full) | [ReVelUp Subs] Episode 8 (Full) | [YellowKnights] Episode 9 (Full) | [Bug. Subs] Episode 11 (Sakura Cut)</div>
+<br>
 
 ## VLIVE
 * * *
@@ -48,6 +57,7 @@ Tofu Pro Wrestling<br>
 <div style="font-size:13px">
   <a href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a> | <a href="https://www.youtube.com/watch?v=nxZg70OqHpU">Making Lunchbox for Chaewon</a> | 
 </div>
+<br>
 
 ### IZ* ONE Arcade
 
