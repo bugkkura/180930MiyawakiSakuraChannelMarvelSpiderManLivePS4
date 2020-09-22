@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>V LIVE</h1>
+<h1>IZ* ONE</h1>
 <div style="font-size:15px">
   <a target="_blank" href="https://www.vlive.tv/video/88099">180908 Hello, we are IZ* ONE!!😀</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/89022">180914 IZ* ONE's second meeting 😍</a><br>
