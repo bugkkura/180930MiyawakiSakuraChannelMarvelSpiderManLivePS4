@@ -13,6 +13,8 @@ layout: default
 | <a target="_blank" href="https://www.youtube.com/watch?v=QuFlMIgKxsA">Episode 23</a> (190405 Music Bank, 190407 Inkigayo Backstage) | <a target="_blank" href="https://www.youtube.com/watch?v=sZeph04xB_k">Episode 24</a> (190412 Music Bank Backstage, Mini Fanmeeting)
 | <a target="_blank" href="https://www.youtube.com/watch?v=eoyUSKMVkgk">Episode 25</a> (190420 Music Core, 190421 Inkigayo Backstage) | <a target="_blank" href="https://www.youtube.com/watch?v=8XSS0d1ql7I">Episode 29</a> (1st Fanmeeting in Japan Rehearsal, Backstage)
 
+<br>
+
 <h1>ENOZI Cam +</h1>
 
 | <a target="_blank" href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a>            | <a target="_blank" href="https://www.youtube.com/watch?v=nxZg70OqHpU">Making Lunchbox for Chaewon</a>
