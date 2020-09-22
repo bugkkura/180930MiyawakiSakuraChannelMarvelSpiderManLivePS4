@@ -28,7 +28,7 @@ layout: default
 * * *
 <h2><a href="./everyone's kitchen episode 9.html">[YellowKnights] 190414 Episode 9</a></h2>
 <p>Guest(s): Eun Jiwon (Sechs Kies), Kyung Soojin, Park Jibin</p>
-<img width="500" src="https://instagram.fsin9-1.fna.fbcdn.net/v/t51.2885-15/e35/56218138_672430589843672_6679548678685218446_n.jpg?_nc_ht=instagram.fsin9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=itgdqL_HXTQAX-C2uXi&_nc_tp=18&oh=54aa81a546d821bfadb276929e5f393e&oe=5F94647D">
+<img width="500" src="https://instagram.fsin9-1.fna.fbcdn.net/v/t51.2885-15/e35/57286270_2185357214843225_4395484315235538579_n.jpg?_nc_ht=instagram.fsin9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=4gyT02xeNNIAX_IBzMS&_nc_tp=18&oh=f746656131887392460a79f82fd43f9d&oe=5F9548AE">
 * * *
 <h2><a href="./everyone's kitchen episode 11.html">[Bug. Subs] 190428Episode 11 (Sakura Cut)</a></h2>
 <p>Guest(s): Yiruma, Chungha</p>
