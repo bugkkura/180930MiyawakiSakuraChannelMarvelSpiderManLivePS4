@@ -3,7 +3,13 @@ Hello! This site was created to make it easier for Sakura fans to find Sakura co
 In the meantime, do continue supporting Sakura! 🥰
 
 ### OliveTV Everyone's Kitchen
-* <a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1</a>
+* <a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a>
+* <a href="">[IZ SUBS] Episode 2 (Full)</a>
+* <a href="">[IZ SUBS] Episode 4 (Full)</a>
+* <a href="">[Bug. Subs] Episode 6 (Full)</a>
+* <a href="">[ReVelUp Subs] Episode 8 (Full)</a>
+* <a href="">[YellowKnights] Episode 9 (Full)</a>
+* <a href="">[Bug. Subs] Episode 11 (Sakura Cut)</a>
 
 ### Misc.
 * <a href="./md/misc/180930SakuraSpiderman.html">[Bug. Subs] 180930 MARVEL SPIDER-MAN Live (PS4)</a>
