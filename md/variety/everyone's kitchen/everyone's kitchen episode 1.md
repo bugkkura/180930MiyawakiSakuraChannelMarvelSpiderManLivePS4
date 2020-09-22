@@ -73,11 +73,12 @@ layout: default
         }
     }</style><style id="libjass-animation-styles-0" type="text/css"></style>
 
-<h1>[IZ SUBS] 181229 OliveTV Everyone's Kitchen - Episode 1</h1>
+# [IZ SUBS] 181229 OliveTV Everyone's Kitchen - Episode 1
 <div class="player-wrapper">
 <iframe src="https://drive.google.com/file/d/1a-8vAuv2HXIT3aaZr8BKNdIIXRav3bfg/preview"></iframe>
 </div>
 <br>
+
 * * *
 <h2>modu_kitchen's Instagram</h2>
 <a href="https://www.instagram.com/p/BrrQyIQgnld/"><img width="500" src="https://instagram.fsin9-2.fna.fbcdn.net/v/t51.2885-15/e35/46748458_1206225762877194_6900081758854967428_n.jpg?_nc_ht=instagram.fsin9-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IUyC-aj77VcAX-HChPc&_nc_tp=18&oh=79d197f153af216c7390375627c40851&oe=5F94BF54"></a>
@@ -97,7 +98,8 @@ layout: default
 <a href="https://www.instagram.com/p/Br9J5j_AViD/"><img width="500" src="https://instagram.fsin9-1.fna.fbcdn.net/v/t51.2885-15/e35/47138368_598978953867667_5554405232825111937_n.jpg?_nc_ht=instagram.fsin9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=xTpXEcnbyiwAX9045KZ&_nc_tp=18&oh=41927199db50428a1b7582722a6c7125&oe=5F93E845"></a>
 <a href="https://www.instagram.com/p/Br9KyeEADQN/"><img width="500" src="https://instagram.fsin9-2.fna.fbcdn.net/v/t51.2885-15/e35/47268250_524252634759969_8960578098626186390_n.jpg?_nc_ht=instagram.fsin9-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=DoKDtNOM2kAAX-utqh1&_nc_tp=18&oh=89b5355b8112707338e5876b824b5690&oe=5F928EF5"></a>
 <a href="https://www.instagram.com/p/BsAjApvAWgG/"><img width="500" src="https://instagram.fsin9-2.fna.fbcdn.net/v/t51.2885-15/e35/46240796_155028185380367_286550225730368427_n.jpg?_nc_ht=instagram.fsin9-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=WVTwPlE1Pb0AX_k_QvC&_nc_tp=18&oh=c24f6bf1f5b0a5586c6ed83ea3a08a86&oe=5F928621"></a>
-<br>                                                       
+<br>
+
 * * *
 <h2>nangman_pd's Instagram</h2>
 
