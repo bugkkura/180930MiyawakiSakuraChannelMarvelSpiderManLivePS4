@@ -37,7 +37,7 @@ Episode 1 | Episode 2 | Episode 3 | Episode 4 | Episode 5 | Episode 6 | Episode 
   Episode 1 | Episode 2 | Episode 3 | Episode 4
 <br>
 
-<h3><a href="./md/variety/everyone's kitchen/index.html">OliveTV Everyone's Kitchen</a></h3>
+<h3><a href="./md/variety/everyone's kitchen/everyone's kitchen.html">OliveTV Everyone's Kitchen</a></h3>
   
 <br>
 
