@@ -2,6 +2,16 @@ Hello! This site was created to make it easier for Sakura fans to find Sakura co
 
 In the meantime, do continue supporting Sakura! 🥰
 
+## Dramas
+
+## Variety Shows
+
+#### OliveTV Everyone's Kitchen: <a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a> / [IZ SUBS] Episode 2 (Full) / [IZ SUBS] Episode 4 (Full) / [Bug. Subs] Episode 6 (Full) / [ReVelUp Subs] Episode 8 (Full) / [YellowKnights] Episode 9 (Full) / [Bug. Subs] Episode 11 (Sakura Cut)
+
+## YouTube
+
+### ENOZI Cam
+
 ### IZ* ONE Arcade
 
 <div style="font-size:13px">
@@ -11,20 +21,10 @@ In the meantime, do continue supporting Sakura! 🥰
 
 ### IZ* ONE Arcade II
 
-### ENOZI Cam
+## VLIVE
 
 ### Music Videos
 
-### OliveTV Everyone's Kitchen
-* <a href="./md/everyone's kitchen/181229EKEpisode1.html">[IZ SUBS] Episode 1 (Full)</a>
-* <a href="">[IZ SUBS] Episode 2 (Full)</a>
-* <a href="">[IZ SUBS] Episode 4 (Full)</a>
-* <a href="">[Bug. Subs] Episode 6 (Full)</a>
-* <a href="">[ReVelUp Subs] Episode 8 (Full)</a>
-* <a href="">[YellowKnights] Episode 9 (Full)</a>
-* <a href="">[Bug. Subs] Episode 11 (Sakura Cut)</a>
-
-### VLIVE
 
 ### Theatre Performances
 
