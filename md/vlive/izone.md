@@ -2,6 +2,8 @@
 layout: default
 ---
 <h1>IZ* ONE</h1>
+
+<h3>Video</h3>
 <div style="font-size:15px">
   <a target="_blank" href="https://www.vlive.tv/video/88099">180908 Hello, we are IZ* ONE!!😀</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/89022">180914 IZ* ONE's second meeting 😍</a><br>
@@ -25,7 +27,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/103138">181208 🧀🌭🍠🐡🍊✌</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/103421">181210 Winning the Rookie of the Year Award, IZ* ONE🏆</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/104790">181218 IZ*ONE NEWS🌏</a><br>
-  <a target="_blank" href=""></a><br>
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9653941">WIZ*ONE, we'll make you shine! Thank you always💖</a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
@@ -33,3 +35,5 @@ layout: default
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
 </div>
+
+<h3>Post</h3>
