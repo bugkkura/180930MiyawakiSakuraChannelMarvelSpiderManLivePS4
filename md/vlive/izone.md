@@ -31,7 +31,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/109113">190115 4th Rookie of the Year Award🏆💖</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/109777">190120 Showcase End🌟</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/110320">190123 Unnies are here🏆</a><br>
-  <a target="_blank" href="https://www.vlive.tv/video/124730">190124 We are Games* ONE🎯</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/124730">190124 We are Gamez* ONE🎯</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/111942">190203 Meeting in Advance MingDAY🎂💖</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/111472">190204 2019 IZ* ONE's Lunar New Year Greeting Message</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/114209">190221 Gamez* ONE #KkuYen🌸🐤</a><br>
@@ -41,9 +41,9 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/121320">190401 20 minutes to Release♡.♡</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/121399">190402 My Secret Friend! Let's Playy❤️ (Guerilla Concert Announcement)</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/122757">190409 💐Violeta won 1st Place💐</a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/124153">190417 WIZ* ONE again! Thank you💕</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/124730">190420 We are Gamez* ONE🎯✌️</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/124811">190421 My world, my light WIZ* ONE💘</a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
