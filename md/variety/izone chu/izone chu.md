@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h2>[IZ SUBS] 181025 IZ*ONE CHU - Episode 1</h2>
 <div class="player-wrapper">
 <iframe src="https://drive.google.com/file/d/1v1g2tH2TCrw8ZVB_wOVlcAxdsgeWVngM/preview"></iframe>
