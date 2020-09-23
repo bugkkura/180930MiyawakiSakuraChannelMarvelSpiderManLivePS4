@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<h2>ALL THE K-POP</h2>
+<a target="_blank" href="https://www.vlive.tv/video/121436">[Weekly Idol] with IZ* ONE</a><br>
+
 <h2>Dispatch</h2>
 <a target="_blank" href="https://www.vlive.tv/video/95869">181028 Halloween Snack Mukbang #1</a><br>
 <a target="_blank" href="https://www.vlive.tv/video/96071">181030 Halloween Snack Mukbang #3</a><br>
