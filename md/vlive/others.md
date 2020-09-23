@@ -20,3 +20,4 @@ layout: default
 
 <h2>V HEARTBEAT - 2019 VLIVE AWARDS</h2>
 <a target="_blank" href="https://www.vlive.tv/video/114098">190302 IZ*ONE re:memV-log</a><br>
+<a target="_blank" href="https://www.vlive.tv/video/115715">190302 IZ*ONE re:memVer party (2019 GLOBAL VLIVE TOP10 ROOKIE STAGE)</a><br>
