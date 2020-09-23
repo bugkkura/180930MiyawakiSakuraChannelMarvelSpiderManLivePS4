@@ -11,6 +11,9 @@ layout: default
 <a target="_blank" href="https://www.vlive.tv/video/97098">181106 Beautiful IZ*ONE (1)</a><br>
 <a target="_blank" href="https://www.vlive.tv/video/121367">190404 [ⓓxV] "You're my Violeta" HD SKETCH (Sakura, Yuri, Chaeyeon, Hyewon: IZ* ONE)</a><br>
 <a target="_blank" href="https://www.vlive.tv/video/122576">190411 [ⓓxV] "From today, we're berries~" (Sakura, Yuri, Chaeyeon, Hyewon: IZ* ONE)</a><br>
+<a target="_blank" href="https://www.vlive.tv/video/202113">200714 [DICON] IZ*ONE Decorating Polaroids ① (IZ*ONE)</a><br>
+<a target="_blank" href="https://www.vlive.tv/video/202760">200715 IZ*ONE DICON UNBOXING</a><br>
+<a target="_blank" href=""></a><br>
 
 <h3>OSEN</h3>
 <a target="_blank" href="https://www.vlive.tv/video/178621">200306 IZ*ONE is finally on Star Road! #star road 01</a><br>
@@ -26,7 +29,7 @@ layout: default
 <a target="_blank" href="https://www.vlive.tv/video/183270">200403 IZ*ONE, Got excited during break time #Star Road 17</a><br>
 <a target="_blank" href="https://www.vlive.tv/video/183272">200403 IZ*ONE, So lovely even when they talk #Star Road 18</a><br>
 <a target="_blank" href="https://www.vlive.tv/video/183980">200407 IZ*ONE, Yujin X Sakura X Yuri Talking About Their Charming Points #Star Road 20</a><br>
-<a target="_blank" href=""></a><br>
+
 <a target="_blank" href=""></a><br>
 <a target="_blank" href=""></a><br>
 <a target="_blank" href=""></a><br>
