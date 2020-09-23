@@ -29,12 +29,12 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/104790">181218 IZ*ONE NEWS🌏</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/108698">190112 Happy Chaeyeon Day🎂💖</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/109113">190115 4th Rookie of the Year Award🏆💖</a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/109777">190120 Showcase End🌟</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/110320">190123 Unnies are here🏆</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/124730">190124 We are Games* ONE🎯</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/111942">190203 Meeting in Advance MingDAY🎂💖</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/111472">190204 2019 IZ* ONE's Lunar New Year Greeting Message</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/114209">190221 Gamez* ONE #KkuYen🌸🐤</a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
