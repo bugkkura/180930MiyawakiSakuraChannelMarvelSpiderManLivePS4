@@ -30,11 +30,14 @@ layout: default
 <a target="_blank" href=""></a><br>
 <a target="_blank" href=""></a><br>
 <a target="_blank" href=""></a><br>
-<a target="_blank" href=""></a><br>
+
 
 <h3>JTBC PLUS</h3>
 <a target="_blank" href="https://www.vlive.tv/video/107762">190106 33rd Golden Disks Awards, IZ*ONE on the way</a><br>
 <a target="_blank" href="https://www.vlive.tv/video/109178">190116 IZ* ONE On the way to GDA Behind
+
+<h3>V COOKIE</h3>
+<a target="_blank" href="https://www.vlive.tv/video/196146">200614 IZ*ONE X LieV - IZ*ONE's LieV!</a><br>
 
 <h3>V HEARTBEAT - 2019 VLIVE AWARDS</h3>
 <a target="_blank" href="https://www.vlive.tv/video/114098">190302 IZ*ONE re:memV-log</a><br>
