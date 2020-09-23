@@ -21,7 +21,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/98909">181113 Thank You WIZ* ONE💕</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/99713">181118 IZ*ONE NEWS🌏</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/99363">181119 IZ*ONE X EATING SHOW</a><br>
-  <a target="_blank" href="https://www.vlive.tv/video/101447">181128 We won the Rookie of the Year Award</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/101447">181128 We won the Rookie of the Year Award🏆🎶</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/103136">181208 🧀🌭🍠🐡🍊</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/103138">181208 🧀🌭🍠🐡🍊✌</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/103421">181210 Winning the Rookie of the Year Award, IZ*ONE🏆</a><br>
