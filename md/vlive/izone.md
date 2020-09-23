@@ -43,6 +43,37 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/124153">190417 WIZ* ONE again! Thank you💕</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/124730">190420 We are Gamez* ONE🎯✌️</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/124811">190421 My world, my light WIZ* ONE💘</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/127231">190503 As soon as we become one, we pay attention to WIZ* ONE (Post-Fanmeet VLive)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/129839">190519 IZ*ONE NEWS🌏</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/131687">190529 Daeng Daeng Live 2🐶</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/133338">190607 WIZ* ONE Please take care of use tomorrow, too (Post EOM in Seoul Day 1)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/133422">190608 Go up to the sky and be with WIZ* ONE✈💕 (Post EOM in Seoul Day 2)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/133499">190609 IZ* ONE + WIZ* ONE = 💖 (Post EOM in Seoul Day 3)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/134734">190616 WIZ* ONE Thank you 😭💕 (Post EOM in Bangkok)</a><br>
+  <a target="_blank" href="https://www.youtube.com/watch?v=pU0KLuXe-v8">190616 Bankokz's Goodnight</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/135042">190618 Nako Day 🐣🎉</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/136611">190626 2nd Single 🥳✌</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/137275">190629 It was fun, WIZ* ONE (Post EOM in TP)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/138164">190704 Advanced Hyewon Day🐹💕🎂</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/138855">190709 NY(ㄴㅋㅇㅂㅋ) in NY🗽</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/138859">190709 NY in NY🗽</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/141049">190723 SakKwangAhnYoung👋</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/142664">190801 CHAEWON's birthday.🧚‍♂️🎂💖</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/142735">190801 IZ*ONE in 2019 MGMA🏆</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/145687">190821 WIZ*ONE, you touched our hearts today too💓 (Post EOM JP in Makuhari Messe)</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/147467">190831 Happy WON YOUNG day🐰🎂💕</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/151310">190923 Vampire🧛 ♥</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/152294">190927 Happy Birthday, EUN BI! 🐰🎂</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/152514">190930 YENA DAY🧁💛</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/153784">191006 HITOMI’s birthday 🥳💕</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/156492">191022 Happy YULDAY🐹🧡</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/157697">191029 HAPPY IZ*ONE DAY💕</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/175437">200214 IZ*ONE's Happy Valentine's Day🍫❣</a><br> Eng Subs: <a target="_blank" href="https://youtu.be/4aR1UqzxxcE">YouTube</a>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
