@@ -90,15 +90,15 @@ layout: default
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9053564">181119 [✌️] IZ*ONE X EATING SHOW</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9243421">181208 [✌️] 🧀🌭🍠🐡🍊</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9331489">181216 [🙌] IZ*ONE VApp Appears in a Webtoon!👏🏻</a><br>
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9355501">181218 [✌️] IZ*ONE NEWS💡</a><br> 
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9355501">181218 [✌️] IZ*ONE NEWS💡</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9653941">190106 WIZ*ONE, we'll make you shine! Thank you always💖</a><br>
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.9845778">190120 [✌️] Showcase End🌟</a><br>  
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9901626">190123 [✌️] Unnies are here🏆</a><br>  
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9912475">190124 [✌️] We are Gamez* ONE🎯</a><br>  
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10069667">190205 [✌️] Meeting in Advance MingDAY🎂💖</a><br>  
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10237543">190221 [✌️] Gamez*ONE #KkuYen🌸🐤</a><br>  
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.9845778">190120 [✌️] Showcase End🌟</a><br>
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9901626">190123 [✌️] Unnies are here🏆</a><br>
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9912475">190124 [✌️] We are Gamez* ONE🎯</a><br>
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10069667">190205 [✌️] Meeting in Advance MingDAY🎂💖</a><br>
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10237543">190221 [✌️] Gamez*ONE #KkuYen🌸🐤</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10313479">190302 [✌️] 2019 GLOBAL VLIVE - ROOKIE TOP5 <re:memVer party></a><br>
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10481445">190319 [✌️] Kkura Day🌸🎂</a><br>  
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10481445">190319 [✌️] Kkura Day🌸🎂</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10520590">190324 [✌️] 😺🧚🏼‍♂️🐶</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10557681">190328 [✌️] [Breaking News] IZ*ONE Lightstick Exclusive Reveal🧙🏼‍♀️</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10591756">190401 [✌️] 20 minutes to Release♡.♡</a><br>
