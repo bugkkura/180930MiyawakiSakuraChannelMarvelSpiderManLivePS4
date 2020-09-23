@@ -35,10 +35,10 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/111942">190203 Meeting in Advance MingDAY🎂💖</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/111472">190204 2019 IZ* ONE's Lunar New Year Greeting Message</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/114209">190221 Gamez* ONE #KkuYen🌸🐤</a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/119166">190319 Kkura Day!</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/120001">190324 😺🧚🏼‍♂️🐶</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/120789">190328 IZ* ONE Lightstick Reveal</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/121320">190401 20 minutes to Release♡.♡</a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
