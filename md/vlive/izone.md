@@ -45,7 +45,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/127231">190503 As soon as we become one, we pay attention to WIZ*ONE🙌</a> (Post-Fanmeet VLive)<br>
   <a target="_blank" href="https://www.vlive.tv/video/129839">190519 IZ*ONE NEWS🌏</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/131687">190529 Daeng Daeng Live 2🐶</a><br>
-  <a target="_blank" href="https://www.vlive.tv/video/133338">190607 WIZ*ONE Please take care of use tomorrow, too</a> (Post EOM in Seoul Day 1)<br>
+  <a target="_blank" href="https://www.vlive.tv/video/133338">190607 WIZ*ONE Please take care of use tomorrow, too💕</a> (Post EOM in Seoul Day 1)<br>
   <a target="_blank" href="https://www.vlive.tv/video/133422">190608 Go up to the sky and be with WIZ*ONE✈💕</a> (Post EOM in Seoul Day 2)<br>
   <a target="_blank" href="https://www.vlive.tv/video/133499">190609 IZ*ONE + WIZ*ONE = 💖</a> (Post EOM in Seoul Day 3)<br>
   <a target="_blank" href="https://www.vlive.tv/video/134734">190616 WIZ*ONE Thank you 😭💕</a> (Post EOM in Bangkok)<br>
