@@ -76,7 +76,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/204812">Knock Knock🚪</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/207521">Just Just Just</a> (Sakura is off-camera)<br>
   <a target="_blank" href="https://www.vlive.tv/video/211462">200914 Trying🔥</a><br>
-  <a target="_blank" href="https://www.vlive.tv/video/212797">200913 3</a> (Post Oneiric Theatre Online Concert)<br>
+  <a target="_blank" href="https://www.vlive.tv/video/212797">200913 3</a> (Post Oneiric Theatre)<br>
   <a target="_blank" href="https://www.vlive.tv/video/213977">200920 Sakura's Late Night Eating Show🌸🌙</a><br>
 
 <h3>Post</h3>
