@@ -13,7 +13,7 @@ In the meantime, do continue supporting Sakura! 🥰
 <h3><a href="./md/drama/crow's blood.html">Crow's Blood</a></h3>
 <h3><a href="./md/drama/akb love night.html">AKB Love Night: Love Factory</a></h3>
 <h3><a href="./md/drama/doctor y/doctor y.html">Doctor-Y: Surgeon Hideki Kaji</a></h3>
-<h3><a href="./md/drama/cabasuka gakuen/cabasuka gakuen.html">Cabasuka Gakuen</a></h3>
+<h3><a href="./md/drama/cabasuka gakuen.html">Cabasuka Gakuen</a></h3>
 <h3><a href="./md/drama/tofu pro wrestling/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 
 ## Produce 48
