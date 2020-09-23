@@ -27,7 +27,22 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/103138">181208 🧀🌭🍠🐡🍊✌</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/103421">181210 Winning the Rookie of the Year Award, IZ* ONE🏆</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/104790">181218 IZ*ONE NEWS🌏</a><br>
-  
+  <a target="_blank" href="https://www.vlive.tv/video/108698">190112 Happy Chaeyeon Day🎂💖</a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/109113">190115 4th Rookie of the Year Award🏆💖</a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
+  <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
