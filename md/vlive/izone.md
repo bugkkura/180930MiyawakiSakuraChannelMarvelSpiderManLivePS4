@@ -39,8 +39,8 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/120001">190324 😺🧚🏼‍♂️🐶</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/120789">190328 IZ* ONE Lightstick Reveal</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/121320">190401 20 minutes to Release♡.♡</a><br>
-  <a target="_blank" href=""></a><br>
-  <a target="_blank" href=""></a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/121399"></a><br>
+  <a target="_blank" href="https://www.vlive.tv/video/121399">My Secret Friend! Let's Playy❤️ (Guerilla Concert Announcement)</a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
