@@ -49,7 +49,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/133422">190608 Go up to the sky and be with WIZ*ONE✈💕</a> (Post EOM in Seoul Day 2)<br>
   <a target="_blank" href="https://www.vlive.tv/video/133499">190609 IZ*ONE + WIZ*ONE = 💖</a> (Post EOM in Seoul Day 3)<br>
   <a target="_blank" href="https://www.vlive.tv/video/134734">190616 WIZ*ONE Thank you 😭💕</a> (Post EOM in Bangkok)<br>
-  <a target="_blank" href="https://www.youtube.com/watch?v=pU0KLuXe-v8">190616 Bankokz's Goodnight</a><br>
+  <a target="_blank" href="https://www.youtube.com/watch?v=pU0KLuXe-v8">190616 Bangkokz's Goodnight🌙</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/135042">190618 Nako Day 🐣🎉</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/136611">190626 2nd Single 🥳✌</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/137275">190629 It was fun, WIZ*ONE💕</a> (Post EOM in TP)<br>
