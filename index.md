@@ -3,18 +3,18 @@ Hello! This site was created to make it easier for Sakura fans to find Sakura co
 In the meantime, do continue supporting Sakura! 🥰
 <br>
 <br>
-## Dramas
+## Drama
 * * *
 
-<h3><a href="./md/dramas/majisuka gakuen 4/majisuka gakuen 4.html">Majisuka Gakuen 4</a></h3>
-<h3><a href="./md/dramas/majisuka gakuen 5/majisuka gakuen 5.html">Majisuka Gakuen 5</a></h3>
-<h3><a href="./md/dramas/akb horror night.html">AKB Horror Night: Adrenaline's Night</a></h3>
-<h3><a href="./md/dramas/majisuka gakuen 0.html">Majisuka Gakuen 0</a></h3>
-<h3><a href="./md/dramas/crow's blood.html">Crow's Blood</a></h3>
-<h3><a href="./md/dramas/akb love night.html">AKB Love Night: Love Factory</a></h3>
-<h3><a href="./md/dramas/doctor y/doctor y.html">Doctor-Y: Surgeon Hideki Kaji</a></h3>
-<h3><a href="./md/dramas/cabasuka gakuen/cabasuka gakuen.html">Cabasuka Gakuen</a></h3>
-<h3><a href="./md/dramas/tofu pro wrestling/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
+<h3><a href="./md/drama/majisuka gakuen 4/majisuka gakuen 4.html">Majisuka Gakuen 4</a></h3>
+<h3><a href="./md/drama/majisuka gakuen 5/majisuka gakuen 5.html">Majisuka Gakuen 5</a></h3>
+<h3><a href="./md/drama/akb horror night.html">AKB Horror Night: Adrenaline's Night</a></h3>
+<h3><a href="./md/drama/majisuka gakuen 0.html">Majisuka Gakuen 0</a></h3>
+<h3><a href="./md/drama/crow's blood.html">Crow's Blood</a></h3>
+<h3><a href="./md/drama/akb love night.html">AKB Love Night: Love Factory</a></h3>
+<h3><a href="./md/drama/doctor y/doctor y.html">Doctor-Y: Surgeon Hideki Kaji</a></h3>
+<h3><a href="./md/drama/cabasuka gakuen/cabasuka gakuen.html">Cabasuka Gakuen</a></h3>
+<h3><a href="./md/drama/tofu pro wrestling/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 
 ## Produce 48
 * * *
