@@ -42,7 +42,7 @@ layout: default
   <a target="_blank" href="https://www.vlive.tv/video/124153">190417 WIZ*ONE again! Thank you💕</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/124730">190420 We are Gamez*ONE🎯✌️</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/124811">190421 My world, my light WIZ* ONE💘</a><br>
-  <a target="_blank" href="https://www.vlive.tv/video/127231">190503 As soon as we become one, we pay attention to WIZ*ONE</a> (Post-Fanmeet VLive)<br>
+  <a target="_blank" href="https://www.vlive.tv/video/127231">190503 As soon as we become one, we pay attention to WIZ*ONE🙌</a> (Post-Fanmeet VLive)<br>
   <a target="_blank" href="https://www.vlive.tv/video/129839">190519 IZ*ONE NEWS🌏</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/131687">190529 Daeng Daeng Live 2🐶</a><br>
   <a target="_blank" href="https://www.vlive.tv/video/133338">190607 WIZ*ONE Please take care of use tomorrow, too</a> (Post EOM in Seoul Day 1)<br>
@@ -106,7 +106,7 @@ layout: default
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.10739712">190417 [✌️] WIZ*ONE again! Thank you💕</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10771489">190420 [✌️] We are Gamez*ONE🎯✌️</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.10779402">190421 [✌️] My world, my light WIZ* ONE💘</a><br>
-  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10897560">190503 [✌️] As soon as we become one, we pay attention to WIZ*ONE</a> (Post-Fanmeet VLive)<br>
+  <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.10897560">190503 [✌️] As soon as we become one, we pay attention to WIZ*ONE🙌</a> (Post-Fanmeet VLive)<br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.11025000">190519 [✌️] IZ*ONE NEWS🌏</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.11200394">190609 [✌️] IZ*ONE + WIZ*ONE = 💖</a><br>
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.11252686">190616 [✌️] WIZ*ONE Thank you 😭💕</a> (Post EOM in Bangkok)<br>
