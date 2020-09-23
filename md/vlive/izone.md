@@ -4,7 +4,6 @@ layout: default
 <h1>IZ* ONE</h1>
 
 <h3>Video</h3>
-<div style="font-size:15px">
   <a target="_blank" href="https://www.vlive.tv/video/88099">180908 Hello, we are IZ* ONE!!😀</a><br>                                 
   <a target="_blank" href="https://www.vlive.tv/video/89022">180914 IZ* ONE's second meeting 😍</a><br>                              
   <a target="_blank" href="https://www.vlive.tv/video/90003">180921 Making Songpyeon with IZ* ONE 🌕</a><br>                         
@@ -48,15 +47,8 @@ layout: default
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
   <a target="_blank" href=""></a><br>
-</div>
 
 <h3>Post</h3>
-<div style="font-size:15px">
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/0.8495269?boardId=1977">181002 [✌️] Goodnight, IZnight 🌙</a><br>
-  
-  
-  
-  
   <a target="_blank" href="https://channels.vlive.tv/C1B7AF/celeb/1.9653941">190106 WIZ*ONE, we'll make you shine! Thank you always💖</a><br>
   
-    </div>
