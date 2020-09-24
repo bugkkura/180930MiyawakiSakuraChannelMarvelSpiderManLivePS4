@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>ENOZI Cam</h1>
+<h2>ENOZI Cam</h2>
 
 Notes:<nbr>
 - I have linked the videos at the time when Sakura first appears. You will have to scrub through the video for her other appearances in the video, if she does appear.
@@ -27,9 +27,10 @@ Notes:<nbr>
 <a target="_blank" href="https://youtu.be/QuFlMIgKxsA?t=39">Episode 23</a> (190405 Music Bank, 190407 Inkigayo Backstage)<br>
 <a target="_blank" href="https://youtu.be/sZeph04xB_k?t=60">Episode 24</a> (190412 Music Bank Backstage, Mini Fanmeeting)<br>
 <a target="_blank" href="https://youtu.be/eoyUSKMVkgk?t=134">Episode 25</a> (190420 Music Core, 190421 Inkigayo Backstage)<br>
-<a target="_blank" href="https://youtu.be/bJXAseOqSbU?t=287">Episode 26</a> (Violeta Album Photoshoot) (No speaking parts)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=8XSS0d1ql7I">Episode 29</a> (1st Fanmeeting in Japan Rehearsal, Backstage)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=T4x_pdhXBsM">Episode 31</a> (EOM Concert Rehearsals) (No speaking parts)<br>
+<a target="_blank" href="https://youtu.be/bJXAseOqSbU?t=287">Episode 26</a> (Secret Time Photoshoot) (No speaking parts)<br>
+<a target="_blank" href="https://youtu.be/M71e4ObS514?t=16">Episode 28</a> () (No speaking parts)<br>
+<a target="_blank" href="https://youtu.be/8XSS0d1ql7I?t=5">Episode 29</a> (1st Fanmeeting in Japan Rehearsal, Backstage)<br>
+<a target="_blank" href="https://youtu.be/T4x_pdhXBsM?t=6">Episode 31</a> (EOM Concert Rehearsals) (No speaking parts)<br>
 <a target="_blank" href="https://youtu.be/z8xqNo4awFw?t=48">Episode 32</a> (190607 EOM in Seoul Day 1 Backstage)<br>
 <a target="_blank" href="https://youtu.be/A5M8yVRyBxU?t=98">Episode 33</a> (190608 EOM in Seoul Day 2 Backstage)<br>
 <a target="_blank" href="https://youtu.be/RdGILzeo0fs?t=171">Episode 34</a> (2019 KCON NY Behind)<br>
@@ -45,10 +46,31 @@ Notes:<nbr>
 <a target="_blank" href="https://youtu.be/cacNilg1UrU?t=94">Episode 45</a> (BLOOM* IZ Album Jacket Shoot #1)<br>
 <a target="_blank" href="https://youtu.be/Otb__RH-PsQ?t=555">Episode 46</a> (BLOOM* IZ Album Jacket Shoot #2)<br>
 <a target="_blank" href="https://youtu.be/QVsn0p8RfaA?t=292">Episode 47</a> (Fiesta MV Filming) (No speaking parts)<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
+<a target="_blank" href="">Episode </a> ()<br>
 
 <br>
 
-<h1>ENOZI Cam +</h1>
+<h2>ENOZI Cam +</h2>
 
 | <a target="_blank" href="https://www.youtube.com/watch?v=J326RzASXEQ">'La Vie en Rose' 1st Win! @M Countdown</a>            | <a target="_blank" href="https://www.youtube.com/watch?v=nxZg70OqHpU">Making Lunchbox for Chaewon</a>
 | <a target="_blank" href="https://www.youtube.com/watch?v=5ye2u3gLw_U">Music Bank 1st Half of the Year Special Backstage</a> | <a target="_blank" href="https://www.youtube.com/watch?v=M-UjOoy56Is">MGMA, KB Liiv Concert Behind</a>
