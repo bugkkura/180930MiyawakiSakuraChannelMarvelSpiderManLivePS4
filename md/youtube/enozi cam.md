@@ -59,7 +59,7 @@ Notes:<nbr>
 <a target="_blank" href="https://youtu.be/ubLQCcv9lzg?t=432">Episode 60</a> Secret Story of the Swan Recording<br>
 <a target="_blank" href="https://youtu.be/gRORoOb4ZiE?t=113">Episode 61</a> Oneiric Diary Comeback Showcase<br>
 <a target="_blank" href="https://youtu.be/EkqHc3dminU?t=301">Episode 62</a> The Star Photoshoot<br>
-<a target="_blank" href="https://youtu.be/inIXrInvYs0?t=580">Episode 64</a> Oneiric Diary Promotions #1 (200618)(<br>
+<a target="_blank" href="https://youtu.be/inIXrInvYs0?t=580">Episode 64</a> Oneiric Diary Promotions #1 (200618)<br>
 <a target="_blank" href="https://youtu.be/zsMj5o-R45Q?t=84">Episode 65</a> Oneiric Diary Promotions #2 (200619, 200620, 200621)<br>
 <a target="_blank" href="https://youtu.be/VYIuupYJPMw?t=23">Episode 66</a> 2020 K:CONTACT<br>
 <a target="_blank" href="https://youtu.be/VktPQOZEtpM?t=60">Episode 67</a> Oneiric Diary Promotions #3 (200626)<br>
