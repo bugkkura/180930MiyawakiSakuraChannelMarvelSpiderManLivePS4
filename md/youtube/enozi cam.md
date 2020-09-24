@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>ENOZI Cam</h1>
 
-Notes:
+Notes:<nbr>
 - I have linked the videos at the time when Sakura first appears. You will have to scrub through the video for her other appearances in the video, if she does appear.
 - Videos with "(No speaking parts)" means that Sakura appeared in the video, but did not talk/only appeared in the background.
 
@@ -25,8 +25,9 @@ Notes:
 <a target="_blank" href="https://youtu.be/kgyNlu7Jzfs?t=5">Episode 20</a> (Japan Schedules Behind)<br>
 <a target="_blank" href="https://youtu.be/YGZOCCfUtCY?t=388">Episode 21</a> (Violeta MV Filming)<br>
 <a target="_blank" href="https://youtu.be/QuFlMIgKxsA?t=39">Episode 23</a> (190405 Music Bank, 190407 Inkigayo Backstage)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=sZeph04xB_k">Episode 24</a> (190412 Music Bank Backstage, Mini Fanmeeting)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=eoyUSKMVkgk">Episode 25</a> (190420 Music Core, 190421 Inkigayo Backstage)<br>
+<a target="_blank" href="https://youtu.be/sZeph04xB_k?t=60">Episode 24</a> (190412 Music Bank Backstage, Mini Fanmeeting)<br>
+<a target="_blank" href="https://youtu.be/eoyUSKMVkgk?t=134">Episode 25</a> (190420 Music Core, 190421 Inkigayo Backstage)<br>
+<a target="_blank" href="https://youtu.be/bJXAseOqSbU?t=287">Episode 26</a> (Violeta Album Photoshoot) (No speaking parts)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=8XSS0d1ql7I">Episode 29</a> (1st Fanmeeting in Japan Rehearsal, Backstage)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=T4x_pdhXBsM">Episode 31</a> (EOM Concert Rehearsals) (No speaking parts)<br>
 <a target="_blank" href="https://youtu.be/z8xqNo4awFw?t=48">Episode 32</a> (190607 EOM in Seoul Day 1 Backstage)<br>
