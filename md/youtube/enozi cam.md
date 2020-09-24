@@ -42,10 +42,10 @@ Notes:<nbr>
 <a target="_blank" href="https://youtu.be/JlgsRMYuuog?t=233">Episode 41</a> (190616 EOM in Bangkok Behind #2)<br>
 <a target="_blank" href="https://youtu.be/P8nSGzNOlzw?t=120">Episode 42</a> (2019 KCON in Thailand Behind)<br>
 <a target="_blank" href="https://youtu.be/4oIpuzS1G38?t=141">Episode 43</a> (190609 EOM in Seoul Day 3 Backstage)<br>
-<a target="_blank" href="https://youtu.be/mUbq6Z6TnC0?t=224">Episode 44</a> (BLOOM* IZ Trailer Filming)<br>
-<a target="_blank" href="https://youtu.be/cacNilg1UrU?t=94">Episode 45</a> (BLOOM* IZ Album Jacket Shoot #1)<br>
-<a target="_blank" href="https://youtu.be/Otb__RH-PsQ?t=555">Episode 46</a> (BLOOM* IZ Album Jacket Shoot #2)<br>
-<a target="_blank" href="https://youtu.be/QVsn0p8RfaA?t=292">Episode 47</a> (Fiesta MV Filming) (No speaking parts)<br>
+<a target="_blank" href="https://youtu.be/mUbq6Z6TnC0?t=224">Episode 44</a> BLOOM* IZ Trailer Filming<br>
+<a target="_blank" href="https://youtu.be/cacNilg1UrU?t=94">Episode 45</a> BLOOM* IZ Album Jacket Shoot #1<br>
+<a target="_blank" href="https://youtu.be/Otb__RH-PsQ?t=555">Episode 46</a> BLOOM* IZ Album Jacket Shoot #2<br>
+<a target="_blank" href="https://youtu.be/QVsn0p8RfaA?t=292">Episode 47</a> Fiesta MV Filming (No speaking parts)<br>
 <a target="_blank" href="">Episode </a> ()<br>
 <a target="_blank" href="">Episode </a> ()<br>
 <a target="_blank" href="">Episode </a> ()<br>
