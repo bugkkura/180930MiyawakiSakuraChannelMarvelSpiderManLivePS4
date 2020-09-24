@@ -3,24 +3,28 @@ layout: default
 ---
 <h1>ENOZI Cam</h1>
 
-Note: I have linked the videos at the time when Sakura first appears. You will have to scrub through the video for her other appearances in the video, if she does appear.
+Notes:
+- I have linked the videos at the time when Sakura first appears. You will have to scrub through the video for her other appearances in the video, if she does appear.
+- Videos with "(No speaking parts)" means that Sakura appeared in the video, but did not talk/only appeared in the background.
 
 <a target="_blank" href="https://youtu.be/mEboyuYa5-s?t=5">Episode 2</a> (Overhit CF Filming #1) (No speaking parts)<br>
 <a target="_blank" href="https://youtu.be/LBljUqTzboo?t=166">Episode 3</a> (Overhit CF Filming #2)<br>
-<a target="_blank" href="https://youtu.be/apgzmeBRqmQ?t=25">Episode 5</a> (M! Countdown Backstage 181101)<br>
-<a target="_blank" href="https://youtu.be/apkjxdbjj1g?t=39">Episode 6</a> (Music Core Backstage 181103)<br>
-<a target="_blank" href="https://youtu.be/KJaYHQa_koA?t=76">Episode 8</a> (Asia Artist Awards Backstage 181128)<br>
+<a target="_blank" href="https://youtu.be/apgzmeBRqmQ?t=25">Episode 5</a> (181101 M! Countdown Backstage)<br>
+<a target="_blank" href="https://youtu.be/apkjxdbjj1g?t=39">Episode 6</a> (181103 Music Core Backstage)<br>
+<a target="_blank" href="https://youtu.be/KJaYHQa_koA?t=76">Episode 8</a> (181128 Asia Artist Awards Backstage)<br>
 <a target="_blank" href="https://youtu.be/A6EieNny-iY?t=104">Episode 9</a> (Fairytale Princesses VCR Filming) (No speaking parts)<br>
 <a target="_blank" href="https://youtu.be/Z167_AonGm0?t=27">Episode 10</a> (181210 MAMA in Korea Backstage)<br>
 <a target="_blank" href="https://youtu.be/yWH6yS-_saM?t=80">Episode 11</a> (2018 Pro Baseball Sports Seoul Awards) (No speaking parts)<br>
 <a target="_blank" href="https://youtu.be/lw4wPYBeySg?t=11">Episode 12</a> (190106 Golden Disk Awards Backstage)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=H2GztU4loNc">Episode 13</a> (190115 Seoul Music Awards Backstage)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=IMBfpoA2iWo">Episode 14</a> (190123 GAON CHART Music Awards Backstage)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=ocqIQf7yeBo">Episode 15</a> (190201 ISAC Filming)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=HPYhf3P6U5k">Episode 17</a> (AR Magazine March 2019 Photoshoot)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=kgyNlu7Jzfs">Episode 20</a> (IZ* ONE in Japan)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=YGZOCCfUtCY">Episode 21</a> (Violeta MV Filming)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=QuFlMIgKxsA">Episode 23</a> (190405 Music Bank, 190407 Inkigayo Backstage)<br>
+<a target="_blank" href="https://youtu.be/H2GztU4loNc?t=80">Episode 13</a> (190115 Seoul Music Awards Backstage)<br>
+<a target="_blank" href="https://youtu.be/IMBfpoA2iWo?t=15">Episode 14</a> (190123 GAON CHART Music Awards Backstage)<br>
+<a target="_blank" href="https://youtu.be/ocqIQf7yeBo?t=174">Episode 15</a> (190201 ISAC Filming)<br>
+<a target="_blank" href="https://youtu.be/HPYhf3P6U5k?t=5">Episode 17</a> (AR Magazine March 2019 Photoshoot)<br>
+<a target="_blank" href="https://youtu.be/SeVGBaF8FGs?t=5">Episode 18</a> (Japan Debut Showcase Behind #1) (No speaking parts)<br>
+<a target="_blank" href="https://youtu.be/kTjfoC4C_1g?t=21">Episode 19</a> (Japan Debut Showcase Behind #2, Suki To Iwasetai Filming)<br>
+<a target="_blank" href="https://youtu.be/kgyNlu7Jzfs?t=5">Episode 20</a> (Japan Schedules Behind)<br>
+<a target="_blank" href="https://youtu.be/YGZOCCfUtCY?t=388">Episode 21</a> (Violeta MV Filming)<br>
+<a target="_blank" href="https://youtu.be/QuFlMIgKxsA?t=39">Episode 23</a> (190405 Music Bank, 190407 Inkigayo Backstage)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=sZeph04xB_k">Episode 24</a> (190412 Music Bank Backstage, Mini Fanmeeting)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=eoyUSKMVkgk">Episode 25</a> (190420 Music Core, 190421 Inkigayo Backstage)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=8XSS0d1ql7I">Episode 29</a> (1st Fanmeeting in Japan Rehearsal, Backstage)<br>
