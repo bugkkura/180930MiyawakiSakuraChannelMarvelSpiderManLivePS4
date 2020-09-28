@@ -23,8 +23,8 @@ In the meantime, do continue supporting Sakura! 🥰
 
 ## 48G Theater Performance
 * * *
-<h3><a href="./md/48g theater performance/akb48.html">AKB48</a></h3>
-<h3><a href="./md/48g theater performance/hkt48.html">HKT48</a></h3>
+<h3><a href="./md/48g theater performance/akb48/akb48.html">AKB48</a></h3>
+<h3><a href="./md/48g theater performance/hkt48/hkt48.html">HKT48</a></h3>
 
 ## Variety Shows
 * * *
