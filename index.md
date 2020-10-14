@@ -27,16 +27,19 @@ In the meantime, do continue supporting Sakura! 🥰
 * * *
 <h3><a href="./md/48g theater performance/akb48/akb48.html">AKB48</a></h3>
 <h3><a href="./md/48g theater performance/hkt48/hkt48.html"></a></h3>
+<br>
 
 ## Variety Shows
 * * *
 <h3><a href="./md/jp variety/jp variety.html">Japan</a></h3>
 <h3><a href="./md/kr variety/kr variety.html">Korea</a></h3>
+<br>
 
 ## V LIVE
 * * *
 <h3><a href="./md/vlive/izone.html">IZ* ONE</a></h3>
 <h3><a href="./md/vlive/others.html">Other Channels</a></h3>
+<br>
 
 ## YouTube
 * * *
@@ -44,6 +47,7 @@ In the meantime, do continue supporting Sakura! 🥰
 <h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade, Arcade II</a></h3>
 <h3><a href="./md/youtube/music videos.html">Music Videos</a></h3>
 <h3><a href="./md/youtube/official music show fancams.html">Official Music Show Fancams</a></h3>
+<br>
 
 ## Misc.
 * * *
