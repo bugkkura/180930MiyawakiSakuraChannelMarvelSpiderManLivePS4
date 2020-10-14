@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Korean Variety Shows
 * * *
 <h3><a href="./izone chu/izone chu.html">IZ*ONE CHU</a></h3>
