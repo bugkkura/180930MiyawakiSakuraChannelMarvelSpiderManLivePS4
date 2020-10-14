@@ -29,7 +29,7 @@ In the meantime, do continue supporting Sakura! 🥰
 ## Variety Shows
 * * *
 <h3><a href="./md/jp variety/jp variety.md">Japan</a></h3>
-<h3><a href="./md/kr variety/kr variety.md">Korea</a></h3>
+<h3><a href="./md/kr variety/kr variety.html">Korea</a></h3>
 
 ## V LIVE
 * * *
