@@ -18,7 +18,7 @@ layout: default
 <h2>IZ*ONE Arcade II</h2>
 <a target="_blank" href="https://www.youtube.com/watch?v=ZigcGmO9EkE&t=512">Episode 2 Wish List_1</a> (Eunbi's Cooking Class)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=_lbQuEPjm-w">Episode 4 Wish List_3</a> (Tarot Card Reading - Unnie Line)<br>
-<a target="_blank" href="https://www.youtube.com/watch?v=tlM5V9kbpKY&t=588">Episode 5 Wish List_3a> (Tarot Card Reading - OT12)<br>
+<a target="_blank" href="https://www.youtube.com/watch?v=tlM5V9kbpKY&t=588">Episode 5 Wish List_3</a> (Tarot Card Reading - OT12)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=UfIT56UYGqY">Episode 6 Wish List_4</a> (What's in my bag?)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=d9c8TyOJtww">Episode 8</a> (Picnic In My Room)<br>
 <a target="_blank" href=""></a><br>
