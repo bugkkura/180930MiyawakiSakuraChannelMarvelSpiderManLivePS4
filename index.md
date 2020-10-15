@@ -8,7 +8,7 @@ In the meantime, do continue supporting Sakura! 🥰
 
 <h3><a href="./md/drama/majisuka gakuen 4/majisuka gakuen 4.htmlMajisuka Gakuen 4"></a></h3>
 <h3><a href="./md/drama/majisuka gakuen 5/majisuka gakuen 5.htmlMajisuka Gakuen 5"></a></h3>
-<h3><a href="./md/drama/akb horror night.html"></a>AKB Horror Night: Adrenaline's Night</h3>
+<h3><a href="./md/drama/akb horror night.html">AKB Horror Night: Adrenaline's Night</a></h3>
 <h3><a href="./md/drama/majisuka gakuen 0.html">Majisuka Gakuen 0</a></h3>
 <h3><a href="./md/drama/crow's blood.html">Crow's Blood</a></h3>
 <h3><a href="./md/drama/akb love night.htmlAKB Love Night: Love Factory"></a></h3>
