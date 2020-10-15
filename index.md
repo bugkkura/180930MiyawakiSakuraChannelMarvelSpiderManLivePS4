@@ -1,6 +1,6 @@
-Hello! This site was created to make it easier for Sakura fans to find Sakura contents. This is all new to me as I am a total noob at coding so  I will be slowly updating this site to include more stuff (eg. variety shows, VLIVE, ENOZI, theatre performances etc. that Sakura has appeared in). If you have any suggestions to improve this site or would like to help out with anything, do contact me <a target="_blank" href="https://twitter.com/bugkkura"> @bugkkura</a>.
+This site was created to make it easier for Sakura fans to find Sakura contents. Because of the sheer amount of content, this is still a work in progress. I'll do my best to search for and add more stuff. If you have any suggestions for the site or would like to contribute anything, do contact me <a target="_blank" href="https://twitter.com/bugkkura"> @bugkkura</a>.
 
-In the meantime, do continue supporting Sakura! 🥰
+In the meantime, continue supporting Sakura! 🥰
 <br>
 <br>
 ## Drama
@@ -14,7 +14,7 @@ In the meantime, do continue supporting Sakura! 🥰
 <h3><a href="./md/drama/akb love night.html">AKB Love Night: Love Factory Episode 29 "Guruguru Curtain"</a></h3>
 <h3><a href="./md/drama/doctor y/doctor y.htmlDoctor-Y: Surgeon Hideki Kaji"></a></h3>
 <h3><a href="./md/drama/cabasuka gakuen.htmlCabasuka Gakuen"></a></h3>
-<h3><a href="./md/drama/mienai toge.html">Mienai Toge (The Unseen Thorn)</a></h3>
+<h3><a href="./md/drama/unseen thorn.html">Mienai Toge (The Unseen Thorn)</a></h3>
 <h3><a href="./md/drama/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 <br>
 
