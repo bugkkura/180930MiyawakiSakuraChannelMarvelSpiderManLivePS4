@@ -20,17 +20,22 @@ In the meantime, continue supporting Sakura~! 🥰
 <h3><a href="./md/drama/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 <br>
 
+## 48G Theater Performance
+* * *
+<h3><a href="./md/48g theater performance/akb48/akb48.html">AKB48</a></h3>
+<h3><a href="./md/48g theater performance/hkt48/hkt48.html"></a></h3>
+<br>
+
 ## Produce 48
 * * *
 <h3><a href="./md/produce 48/p48 episodes.html">Episodes</a></h3>
 <h3><a href="./md/produce 48/p48 youtube clips.html">YouTube Clips</a></h3>
 <br>
 
-## 48G Theater Performance
+## Performance
 * * *
-<h3><a href="./md/48g theater performance/akb48/akb48.html">AKB48</a></h3>
-<h3><a href="./md/48g theater performance/hkt48/hkt48.html"></a></h3>
-<br>
+<h3><a href="./md/performance/48g.html"48G></a<</h3>
+<h3><a href="./md/performance/izone.html"IZ*ONE></a<</h3>
 
 ## Variety Shows
 * * *
