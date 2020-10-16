@@ -8,8 +8,8 @@ In the meantime, continue supporting Sakura~! 🥰
 ## Drama
 * * *
 
-<h3><a href="./md/drama/majisuka gakuen 4/majisuka gakuen 4.htmlMajisuka Gakuen 4"></a></h3>
-<h3><a href="./md/drama/majisuka gakuen 5/majisuka gakuen 5.html">Majisuka Gakuen 5</a></h3>
+<h3><a href="./md/drama/majisuka gakuen 4.html">Majisuka Gakuen 4</a></h3>
+<h3><a href="./md/drama/majisuka gakuen 5.html">Majisuka Gakuen 5</a></h3>
 <h3><a href="./md/drama/akb horror night.html">AKB Horror Night: Adrenaline's Night - Adrenalin no Yoru Episode 5 "Doppelganger"</a></h3>
 <h3><a href="./md/drama/majisuka gakuen 0.html">Majisuka Gakuen 0</a></h3>
 <h3><a href="./md/drama/crow's blood.html">Crow's Blood</a></h3>
