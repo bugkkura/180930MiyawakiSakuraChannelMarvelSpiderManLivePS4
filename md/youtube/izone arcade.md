@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<h1>IZ*ONE Arcade</h1>
+<hr>
+
 <h2>IZ*ONE Arcade</h2>
 <a target="_blank" href="https://www.youtube.com/watch?v=sEFiHs7mLjM">Episode 1</a> (Bean Chopstick Challenge)<br>
 <a target="_blank" href="https://www.youtube.com/watch?v=7JH2KFJKGjA">Episode 2</a> (Tangerine Peel Challenge)<br>
