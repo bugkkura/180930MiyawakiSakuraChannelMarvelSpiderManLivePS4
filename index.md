@@ -20,8 +20,8 @@ In the meantime, continue supporting Sakura! 🥰
 
 ## Produce 48
 * * *
-<h3><a href="./md/produce 48/produce 48 episodes.htmlEpisodes"></a></h3>
-<h3><a href="./md/produce 48/produce 48 behind clips.htmlBehind Clips"></a></h3>
+<h3><a href="./md/produce 48/p48 episodes.html">Episodes</a></h3>
+<h3><a href="./md/produce 48/p48 behind clips.html">Behind Clips</a></h3>
 <br>
 
 ## 48G Theater Performance
