@@ -7,6 +7,7 @@ layout: default
 <h2>Produce 48 Prologue</h2>
 <a target="_blank" href="https://www.youtube.com/watch?v=2TiDt9MvCxI">Wink Fool -> Wink Genius</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=W7penDRxwAs">Former Trainees' Evaluation of Current NP's 내꺼야 (PICK ME)</a><br>
+<br>
 
 <h2>48 Special</h2>
 <a target="_blank" href="https://www.youtube.com/watch?v=H_LlH_QJ93E">Wink Fairy</a><br>
@@ -20,6 +21,7 @@ layout: default
 <a target="_blank" href="https://www.youtube.com/watch?v=esfdCDBAykA">Voting Clip</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=y1AK-k45LRc">Punch Queen, Nekkoya!</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=uwl3DdxschI">Vocal Lessons</a><br>
+<br>
 
 <h2>48 Behind</h2>
   
@@ -38,6 +40,7 @@ Notes:<nbr>
   <a target="_blank" href="https://www.youtube.com/watch?v=l9T7TTh433c&t=38">Concept Evaluation Behind</a><br>
   <a target="_blank" href="https://www.youtube.com/watch?v=XmOkORKyxps">Debut Evaluation Practice Behind</a><br>
   <a target="_blank" href="https://www.youtube.com/watch?v=UQHcA0RYgGk">Debut Evaluation Behind</a><br>
+<br>
 
 <h2>1-on-1 Eye Contact</h2>
 <a target="_blank" href="https://www.youtube.com/watch?v=qp7dHeGPi08">내꺼야 (PICK ME)</a><br>
@@ -45,6 +48,7 @@ Notes:<nbr>
 <a target="_blank" href="https://www.youtube.com/watch?v=nKcXsTOIesE">Very Very Very</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=Upi90X8DlbU">DDU DU DDU DU</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=s5oc82ZPyEs">See You Again</a><br>
+<br>
 
 <h2>Performance</h2>
 <a target="_blank" href="https://www.youtube.com/watch?v=g6y65i809Bk">Black Angel</a><br>
@@ -57,7 +61,7 @@ Notes:<nbr>
 <a target="_blank" href="https://www.youtube.com/watch?v=vS-7iBWfGZE">내꺼야 (PICK ME) Final Ver.</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=s1rOKFSQG4E">You've Fallen Right?</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=3aOnnbtdKi0">As We Dream</a><br>
-
+<br>
 
 <h2>Others</h2>
 
