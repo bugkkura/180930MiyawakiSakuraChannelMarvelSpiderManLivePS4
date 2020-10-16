@@ -13,7 +13,7 @@ In the meantime, continue supporting Sakura! 🥰
 <h3><a href="./md/drama/crow's blood.html">Crow's Blood</a></h3>
 <h3><a href="./md/drama/akb love night.html">AKB Love Night: Love Factory Episode 29 "Guruguru Curtain"</a></h3>
 <h3><a href="./md/drama/doctor y/doctor y.htmlDoctor-Y: Surgeon Hideki Kaji"></a></h3>
-<h3><a href="./md/drama/cabasuka gakuen.htmlCabasuka Gakuen"></a></h3>
+<h3><a href="./md/drama/cabasuka gakuen.html">Cabasuka Gakuen</a></h3>
 <h3><a href="./md/drama/the unseen thorn.html">Mienai Toge (The Unseen Thorn)</a></h3>
 <h3><a href="./md/drama/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 <br>
