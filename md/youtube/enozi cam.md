@@ -2,6 +2,7 @@
 layout: default
 ---
 <h1>ENOZI Cam</h1>
+<hr>
 
 Notes:<nbr>
 - I have linked the videos at the time when Sakura first appears. You will have to scrub through the video for her other appearances in the video, if she does appear.
