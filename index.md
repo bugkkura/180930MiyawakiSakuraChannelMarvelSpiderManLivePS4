@@ -1,8 +1,8 @@
-This site was created to make it easier for Sakura fans to find Sakura's contents. Because of the sheer amount of content, this is still a work in progress. I'll do my best to search for and add more stuff. If you have any suggestions for the site or would like to contribute anything, do contact me <a target="_blank" href="https://twitter.com/bugkkura"> @bugkkura</a>.
+This site was created to make it easier for Sakura fans to find Sakura's contents. Because of the sheer amount of content, this is still a work in progress. I'll do my best to search for and add more raw/subbed stuff. If you have any suggestions for the site or would like to contribute anything, do contact me <a target="_blank" href="https://twitter.com/bugkkura">@bugkkura</a>.
 
-There's some Japanese shows I'm thinking of subbing as well when I'm free. If I do manage to complete any, I'll post it on Twitter and add them here too!
+There's some stuff I'm thinking of subbing as well when I'm free. If I do manage to complete any, I'll update y'all on Twitter!
 
-In the meantime, continue supporting Sakura! 🥰
+In the meantime, continue supporting Sakura~! 🥰
 <br>
 <br>
 ## Drama
