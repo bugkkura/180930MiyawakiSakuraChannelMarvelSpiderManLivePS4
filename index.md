@@ -1,4 +1,6 @@
-This site was created to make it easier for Sakura fans to find Sakura contents. Because of the sheer amount of content, this is still a work in progress. I'll do my best to search for and add more stuff. If you have any suggestions for the site or would like to contribute anything, do contact me <a target="_blank" href="https://twitter.com/bugkkura"> @bugkkura</a>.
+This site was created to make it easier for Sakura fans to find Sakura's contents. Because of the sheer amount of content, this is still a work in progress. I'll do my best to search for and add more stuff. If you have any suggestions for the site or would like to contribute anything, do contact me <a target="_blank" href="https://twitter.com/bugkkura"> @bugkkura</a>.
+
+There's some Japanese shows I'm thinking of subbing as well when I'm free. If I do manage to complete any, I'll post it on Twitter and add them here too!
 
 In the meantime, continue supporting Sakura! 🥰
 <br>
@@ -7,7 +9,7 @@ In the meantime, continue supporting Sakura! 🥰
 * * *
 
 <h3><a href="./md/drama/majisuka gakuen 4/majisuka gakuen 4.htmlMajisuka Gakuen 4"></a></h3>
-<h3><a href="./md/drama/majisuka gakuen 5/majisuka gakuen 5.htmlMajisuka Gakuen 5"></a></h3>
+<h3><a href="./md/drama/majisuka gakuen 5/majisuka gakuen 5.html">Majisuka Gakuen 5</a></h3>
 <h3><a href="./md/drama/akb horror night.html">AKB Horror Night: Adrenaline's Night - Adrenalin no Yoru Episode 5 "Doppelganger"</a></h3>
 <h3><a href="./md/drama/majisuka gakuen 0.html">Majisuka Gakuen 0</a></h3>
 <h3><a href="./md/drama/crow's blood.html">Crow's Blood</a></h3>
