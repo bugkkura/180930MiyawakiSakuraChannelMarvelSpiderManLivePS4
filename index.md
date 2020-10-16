@@ -21,7 +21,7 @@ In the meantime, continue supporting Sakura! 🥰
 ## Produce 48
 * * *
 <h3><a href="./md/produce 48/p48 episodes.html">Episodes</a></h3>
-<h3><a href="./md/produce 48/p48 behind clips.html">Behind Clips</a></h3>
+<h3><a href="./md/produce 48/p48 youtube clips.html">YouTube Clips</a></h3>
 <br>
 
 ## 48G Theater Performance
