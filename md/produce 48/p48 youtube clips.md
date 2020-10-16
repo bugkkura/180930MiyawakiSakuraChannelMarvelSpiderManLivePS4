@@ -34,7 +34,7 @@ Notes:<nbr>
   <a target="_blank" href="https://www.youtube.com/watch?v=Uyn5t32zRdw&t=88">Group Battle Behind</a><br>
   <a target="_blank" href="https://www.youtube.com/watch?v=5SIqDSFN50A&t=47">Position Evaluation Practice Behind</a><br>
   <a target="_blank" href="https://www.youtube.com/watch?v=nzab4DwX77M&t=28">Position Evaluation Behind</a><br>
-  <a target="_blank" href="https://www.youtube.com/watch?v=UoUO_Q1u1IY&t=92">Concept Evaluation Practice Behind</a><br> (No speaking parts)
+  <a target="_blank" href="https://www.youtube.com/watch?v=UoUO_Q1u1IY&t=92">Concept Evaluation Practice Behind</a>(No speaking parts)<br>
   <a target="_blank" href="https://www.youtube.com/watch?v=l9T7TTh433c&t=38">Concept Evaluation Behind</a><br>
   <a target="_blank" href="https://www.youtube.com/watch?v=XmOkORKyxps">Debut Evaluation Practice Behind</a><br>
   <a target="_blank" href="https://www.youtube.com/watch?v=UQHcA0RYgGk">Debut Evaluation Behind</a><br>
