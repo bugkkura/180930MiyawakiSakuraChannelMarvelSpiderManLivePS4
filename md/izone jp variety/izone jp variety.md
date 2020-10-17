@@ -2,14 +2,8 @@
 layout: default
 ---
 
-# Japanese Variety Shows
+# Japanese Variety Shows (IZ* ONE)
 * * *
-
-## 48G
-
-<h3><a href="./hkt shakariki 48.html">HKT Shakariki 48!</a></h3>
-
-## IZ* ONE
 
 ## Misc.
 <hr>
