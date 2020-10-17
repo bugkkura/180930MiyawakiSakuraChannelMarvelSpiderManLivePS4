@@ -40,8 +40,8 @@ In the meantime, continue supporting Sakura~! 🥰
   
 ## Variety Shows
 * * *
-<h3><a href="./md/jp variety/48g jp variety.html">Japan (48G)</a></h3>
-<h3><a href="./md/jp variety/izone jp variety.html">Japan (IZ*ONE)</a></h3>
+<h3><a href="./md/48g jp variety/48g jp variety.html">Japan (48G)</a></h3>
+<h3><a href="./md/izone jp variety/izone jp variety.html">Japan (IZ*ONE)</a></h3>
 <h3><a href="./md/kr variety/kr variety.html">Korea</a></h3>
 <br>
 
