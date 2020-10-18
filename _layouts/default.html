@@ -201,44 +201,36 @@
     {% endif %}
     
     <script type="text/javascript">
-    var specifiedElement = document.getElementById('mySidenav');
-    
+    var specifiedElement = document.getElementById('mySidenav');    
     //I'm using "click" but it works with any event
     document.addEventListener('click', function(event) {
-      var isClickInside = specifiedElement.contains(event.target);
-    
+      var isClickInside = specifiedElement.contains(event.target);    
       if (!isClickInside) {
-          console.log("width" + jQuery('#mySidenav').width());
+//           console.log("width" + jQuery('#mySidenav').width());
           if (jQuery('#mySidenav').width() == 250 || jQuery('#mySidenav').width() == 233) {
-              console.log("check");
+//               console.log("check");
               closeNav();
           }
       }
-      else {
-          
-          console.log("close");
+      else {          
+//           console.log("close");
       }
-    });
-    
+    });    
     function openNav() {
         document.getElementById("mySidenav").style.width = "250px";
         document.getElementById("mySidenav").classList.add("open");
-    }
-    
+    }    
     function closeNav() {
         document.getElementById("mySidenav").style.width = "0";
         document.getElementById("mySidenav").classList.remove("open");
-    }
-    
+    }    
     var acc = document.getElementsByClassName("accordion");
-    var i;
-    
+    var i;    
     for (i = 0; i < acc.length; i++) {
       acc[i].addEventListener("click", function() {
         /* Toggle between adding and removing the "active" class,
         to highlight the button that controls the panel */
-        this.classList.toggle("active");
-    
+        this.classList.toggle("active");    
         /* Toggle between hiding and showing the active panel */
         var panel = this.nextElementSibling;
         if (panel.style.display === "block") {
