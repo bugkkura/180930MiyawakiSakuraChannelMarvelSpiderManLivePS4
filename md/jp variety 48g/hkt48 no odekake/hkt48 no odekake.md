@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>HKT no Odekake!</h1>
+<h1>HKT48 no Odekake!</h1>
 <hr>
 
 <a href="./130201.html">130201 Episode 2</a><br>
