@@ -42,11 +42,22 @@
       right: 25px;
       font-size: 36px;
       margin-left: 50px;
-    }
-    
+    }    
+   #top{
+      position: sticky;
+      height: 50px;
+      width: auto;
+      top: 3em;
+  }
     @media screen and (max-height: 450px) {
       .sidenav {padding-top: 15px;}
       .sidenav a {font-size: 18px;}
+         #top{
+            position: relative;
+            height: 50px;
+            width: auto;
+            top: 1em;
+        }
     }
     .accordion {
         transition: 0.4s;
@@ -57,12 +68,6 @@
       display: none;
       overflow: hidden;
     }
-   #top{
-      position: sticky;
-      height: 50px;
-      width: auto;
-      top: 3em;
-  }
 </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
