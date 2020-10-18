@@ -14,7 +14,7 @@ layout: default
 <a href="./180827.html"></a>180827 Episode 7 - Flip stories // Sketch by Murakawa Bibian, Yabuki Nako & Imamura Maria<br>
 <a href="./180917.html"></a>180917 Episode 10 - More unused "Types of women" // Original self-recorded skits // Sketch by Moriyasu Madoka, Matsuoka Natsumi & Kojina Yui<br>
 
-<h2>HKT no Warai Michi (Road to Comedy) - Hulu Behind The Scenes</h2>
+<h2>HKT48 no Warai Michi (Road to Comedy) - Hulu Original Bonus Footage</h2>
 <a href="./180716.html"></a>180716 Episode 1<br>
 <a href="./180723.html"></a>180723 Episode 2<br>
 <a href="./180806.html"></a>180806 Episode 4<br>
