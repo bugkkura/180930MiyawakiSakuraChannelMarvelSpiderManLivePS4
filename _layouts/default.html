@@ -57,6 +57,12 @@
       display: none;
       overflow: hidden;
     }
+   #top{
+      position: absolute;
+      height: 50px;
+      width: auto;
+      top: 3em;
+  }
 </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -185,7 +191,8 @@
     </div>
   <a href="#">## Misc. * * *</a>
 </div>
-    <span style="font-size:30px;cursor:pointer" onclick="openNav();">&#9776; Menu </span>    
+    
+    <div id="top"><span style="font-size:30px;cursor:pointer" onclick="openNav();">&#9776; Menu </span></div>
     <script type="text/javascript">
     var specifiedElement = document.getElementById('mySidenav');
     
