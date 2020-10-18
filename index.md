@@ -5,6 +5,19 @@ There's some stuff I'm thinking of subbing as well when I'm free. If I do manage
 In the meantime, continue supporting Sakura~! 🥰
 <br>
 <br>
+
+## 48G Theater Performance
+* * *
+<h3><a href="./md/48g theater performance/akb48/akb48.html">AKB48</a></h3>
+<h3><a href="./md/48g theater performance/hkt48/hkt48.html"></a>HKT48</h3>
+<br>
+
+## Concert
+* * *
+
+<h3><a href="./md/concert 48g/concert 48g.html"></a>48G</h3>
+<h3><a href="./md/concert izone/concert izone.html"></a>IZ*ONE</h3>
+
 ## Drama
 * * *
 
@@ -20,10 +33,10 @@ In the meantime, continue supporting Sakura~! 🥰
 <h3><a href="./md/drama/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 <br>
 
-## 48G Theater Performance
+## Performance
 * * *
-<h3><a href="./md/48g theater performance/akb48/akb48.html">AKB48</a></h3>
-<h3><a href="./md/48g theater performance/hkt48/hkt48.html"></a>HKT48</h3>
+<h3><a href="./md/performance/48g.html"></a>48G</h3>
+<h3><a href="./md/performance/izone.html"></a>IZ*ONE</h3>
 <br>
 
 ## Produce 48
@@ -32,12 +45,6 @@ In the meantime, continue supporting Sakura~! 🥰
 <h3><a href="./md/produce 48/p48 youtube clips.html">YouTube Clips</a></h3>
 <br>
 
-## Performance
-* * *
-<h3><a href="./md/performance/48g.html"></a>48G</h3>
-<h3><a href="./md/performance/izone.html"></a>IZ*ONE</h3>
-<br>
-  
 ## Variety Shows
 * * *
 <h3><a href="./md/jp variety 48g/jp variety 48g.html">Japan (48G)</a></h3>
