@@ -20,6 +20,57 @@
     <script src="https://bugkkura.github.io/bugkkurasitetest/src/videojs.ass.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.0.7/Youtube.min.js"></script>
 
+    <style type="text/css">
+    
+    .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: scroll;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+    
+    .sidenav a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 15px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+    }
+    
+    .sidenav a:hover {
+      color: #f1f1f1;
+    }
+    
+    .sidenav .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+    
+    @media screen and (max-height: 450px) {
+      .sidenav {padding-top: 15px;}
+      .sidenav a {font-size: 18px;}
+    }
+    .accordion {
+        transition: 0.4s;
+    }
+    .panel {
+      padding: 0 18px;
+      background-color: white;
+      display: none;
+      overflow: hidden;
+    }
+</style>
+    
   </head>
   <body>
     <div class="wrapper">
@@ -68,5 +119,116 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav();">&times;</a>
+  <a href="#" class="accordion">## 48G Theater Performance * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- AKB48</a>
+        <a href="#" class="subMenu">- HKT48</a>
+    </div>
+   <a href="#" class="accordion">## Concert * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- 48G</a>
+        <a href="#" class="subMenu">- IZ*ONE</a>
+    </div>
+  <a href="#" class="accordion">## Drama * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- Majisuka Gakuen 4</a>
+        <a href="#" class="subMenu">- Majisuka Gakuen 5</a>
+        <a href="#" class="subMenu">- AKB Horror Night: Adrenaline's Night</a>
+        <a href="#" class="subMenu">- Majisuka Gakuen 0</a>
+        <a href="#" class="subMenu">- Crow's Blood</a>
+        <a href="#" class="subMenu">- AKB Love Night: Love Factory</a>
+        <a href="#" class="subMenu">- Cabasuka Gakuen</a>
+        <a href="#" class="subMenu">- Mienai Toge (The Unseen Thorn)</a>
+        <a href="#" class="subMenu">- Tofu Pro Wrestling</a>
+    </div>
+  <a href="#" class="accordion">## Music Video * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- 48G</a>
+        <a href="#" class="subMenu">- IZ*ONE</a>
+    </div>
+  <a href="#" class="accordion">## Performance * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- 48G</a>
+        <a href="#" class="subMenu">- IZ*ONE</a>
+    </div>
+  <a href="#" class="accordion">## Produce 48 * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- Episodes</a>
+        <a href="#" class="subMenu">- Behind Clips</a>
+    </div>
+
+  <a href="#" class="accordion">## Variety Shows * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- Japan (48G)</a>
+        <a href="#" class="subMenu">- Japan (IZ*ONE)</a>
+        <a href="#" class="subMenu">- Korea</a>
+        <!--<a href="#" class="subMenu">IZ* ONE CHU Season 3: Fantasy Campus</a>-->
+        <!--<a href="#" class="subMenu">IZ* ONE CHU Season 4: ON:TACT</a>-->
+        <!--<a href="#" class="subMenu">OliveTV Everyone's Kitchen</a>-->
+    </div>
+  <a href="#" class="accordion">## V LIVE * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- IZ*ONE</a>
+        <a href="#" class="subMenu">- Other Channels</a>
+    </div>
+  <a href="#" class="accordion">## YouTube * * *</a>
+    <div class="panel">
+        <a href="#" class="subMenu">- ENOZI Cam, ENOZI Cam +</a>
+        <a href="#" class="subMenu">- IZ* ONE Arcade, Arcade II</a>
+        <a href="#" class="subMenu">- Official Music Show Fancams</a>
+    </div>
+  <a href="#">## Misc. * * *</a>
+</div>
+    <script type="text/javascript">
+    var specifiedElement = document.getElementById('mySidenav');
+    
+    //I'm using "click" but it works with any event
+    document.addEventListener('click', function(event) {
+      var isClickInside = specifiedElement.contains(event.target);
+    
+      if (!isClickInside) {
+          console.log("width" + jQuery('#mySidenav').width());
+          if (jQuery('#mySidenav').width() == 250 || jQuery('#mySidenav').width() == 233) {
+              console.log("check");
+              closeNav();
+          }
+      }
+      else {
+          
+          console.log("close");
+      }
+    });
+    
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("mySidenav").classList.add("open");
+    }
+    
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("mySidenav").classList.remove("open");
+    }
+    
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+    
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        /* Toggle between adding and removing the "active" class,
+        to highlight the button that controls the panel */
+        this.classList.toggle("active");
+    
+        /* Toggle between hiding and showing the active panel */
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+          panel.style.display = "none";
+        } else {
+          panel.style.display = "block";
+        }
+      });
+    }
+</script>
   </body>
 </html> 
