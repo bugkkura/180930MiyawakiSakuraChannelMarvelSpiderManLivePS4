@@ -56,7 +56,7 @@ In the meantime, continue supporting Sakura~! 🥰
 <h3><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h3>
 <h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade, Arcade II</a></h3>
 <h3><a href="./md/youtube/music videos.html"></a></h3>
-<h3><a href="./md/youtube/official music show fancams.html">Official Music Show Fancams</a></h3>
+<h3><a href="./md/youtube/official fancams/official fancams.md">Official Fancams</a></h3>
 <br>
 
 ## Misc.
