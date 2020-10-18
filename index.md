@@ -34,6 +34,12 @@ In the meantime, continue supporting Sakura~! 🥰
 <h3><a href="./md/drama/tofu pro wrestling.html">Tofu Pro Wrestling</a></h3>
 <br>
 
+## Music Video
+* * *
+
+<h3><a href="./md/music video/music video 48g.html"></a>48G</h3>
+<h3><a href="./md/music video/music video izone.html"></a>IZ*ONE</h3>
+
 ## Performance
 * * *
 <h3><a href="./md/performance/48g.html"></a>48G</h3>
@@ -63,7 +69,6 @@ In the meantime, continue supporting Sakura~! 🥰
 * * *
 <h3><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h3>
 <h3><a href="./md/youtube/izone arcade.html"> IZ*ONE Arcade, Arcade II</a></h3>
-<h3><a href="./md/youtube/music videos.html"></a></h3>
 <h3><a href="./md/youtube/official fancams.html">Official Fancams</a></h3>
 <br>
 
