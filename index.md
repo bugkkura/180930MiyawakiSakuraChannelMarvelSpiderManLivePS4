@@ -47,14 +47,14 @@ In the meantime, continue supporting Sakura~! 🥰
 
 ## V LIVE
 * * *
-<h3><a href="./md/vlive/izone.html">IZ* ONE</a></h3>
+<h3><a href="./md/vlive/izone.html">IZ*ONE</a></h3>
 <h3><a href="./md/vlive/others.html">Other Channels</a></h3>
 <br>
 
 ## YouTube
 * * *
 <h3><a href="./md/youtube/enozi cam.html">ENOZI Cam, ENOZI Cam +</a></h3>
-<h3><a href="./md/youtube/izone arcade.html"> IZ* ONE Arcade, Arcade II</a></h3>
+<h3><a href="./md/youtube/izone arcade.html"> IZ*ONE Arcade, Arcade II</a></h3>
 <h3><a href="./md/youtube/music videos.html"></a></h3>
 <h3><a href="./md/youtube/official fancams.html">Official Fancams</a></h3>
 <br>
