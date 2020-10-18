@@ -5,8 +5,8 @@ layout: default
 <hr>
 
 <h2>2018</h2>
-<a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con - <a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">La Vie en Rose (Solo)</a>, <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">La Vie en Rose (Group)</a><br>
-<a href="./181101.html"></a>181101 Mnet M! Countdown<br> - 
+<a href="./181029.html"></a>181029 Mnet IZ* ONE Show-Con - <a target="_blank" href="https://www.youtube.com/watch?v=Y3RkiW0eWwQ">Solo</a> (La Vie en Rose), <a target="_blank" href="https://www.youtube.com/watch?v=FREqbJjxFcg">La Vie en Rose (Group)</a><br>
+<a href="./181101.html"></a>181101 Mnet M! Countdown<br>
 <a href="./181102.html"></a>181102 KBS2 Music Bank<br>
 <a href="./181103.html"></a>181103 MBC Show! Music Core<br>
 <a href="./181108.html"></a>181108 Mnet M! Countdown<br>
@@ -20,7 +20,7 @@ layout: default
 
 <h2>2019</h2>
 <a href="./190401.html"></a>190401 Mnet IZ* ONE Heart to HEARTIZ<br>
-<a href="./190402.html"></a>90402 Mnet HEARTIZ Comeback Guerilla<br>
+<a href="./190402.html"></a>190402 Mnet HEARTIZ Comeback Guerilla<br>
 <a href="./190404.html"></a>190404 Mnet M! Countdown<br>
 <a href="./190405.html"></a>190405 KBS2 Music Bank<br>
 <a href="./190406.html"></a>190406 MBC Show! Music Core<br>
